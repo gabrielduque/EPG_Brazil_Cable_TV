@@ -1,0 +1,44 @@
+
+============
+
+http://programacao.netcombo.com.br/gatekeeper/exibicao/select?
+q=id_cidade:96
+&callback=callbackShows
+&json.wrf=callbackShows
+&wt=json
+&rows=100000
+&sort=id_canal+asc%2Cdh_inicio+asc
+&fl=dh_fim+dh_inicio+st_titulo+titulo+id_programa+id_canal
+&fq=dh_inicio%3A%5B2014-02-03T15%3A30%3A00Z+TO+2014-02-03T18%3A29%3A00Z%5D+dh_fim%3A%5B2014-02-03T15%3A31%3A00Z+TO+2014-02-03T18%3A30%3A00Z%5D&_=1391460596572
+
+
+
+==========================
+
+http://programacao.netcombo.com.br/gatekeeper/exibicao/select?q=id_cidade:96&callback=callbackShows&json.wrf=callbackShows&wt=json&rows=100000&sort=id_canal+asc%2Cdh_inicio+asc&fl=dh_fim+dh_inicio+st_titulo+titulo+id_programa+id_canal&fq=dh_inicio%3A%5B2014-02-03T15%3A30%3A00Z+TO+2014-02-03T18%3A29%3A00Z%5D+dh_fim%3A%5B2014-02-03T15%3A31%3A00Z+TO+2014-02-03T18%3A30%3A00Z%5D&_=1391460596572
+
+
+DECODE 01:
+http://programacao.netcombo.com.br/gatekeeper/exibicao/select?q=id_cidade:96&callback=callbackShows&json.wrf=callbackShows&wt=json&rows=100000&sort=id_canal asc,dh_inicio asc&fl=dh_fim dh_inicio st_titulo titulo id_programa id_canal&fq=dh_inicio:[2014-02-03T15:30:00Z TO 2014-02-03T18:29:00Z] dh_fim:[2014-02-03T15:31:00Z TO 2014-02-03T18:30:00Z]&_=1391460596572
+
+
+http://programacao.netcombo.com.br/gatekeeper/exibicao/select?q=id_cidade:96&callback=callbackShows&json.wrf=callbackShows&wt=json&rows=100000&sort=id_canal+asc,dh_inicio asc&fl=dh_fim dh_inicio st_titulo titulo id_programa id_canal&fq=dh_inicio:[2014-02-03T15:30:00Z TO 2014-02-03T18:29:00Z] dh_fim:[2014-02-03T15:31:00Z TO 2014-02-03T18:30:00Z]&_=1391460596572
+
+http://programacao.netcombo.com.br/gatekeeper/exibicao/select?q=id_cidade:96&callback=callbackShows&json.wrf=callbackShows&wt=json&rows=100000&sort=id_canal+asc,dh_inicio asc&fl=dh_fim dh_inicio st_titulo titulo id_programa id_canal&fq=dh_inicio:[2014-02-03T01:00:00Z TO 2014-02-03T23:58:00Z] dh_fim:[2014-02-03T01:01:00Z TO 2014-02-03T23:59:00Z]&_=1391460596572
+
+
+
+====================
+
+http://programacao.netcombo.com.br/gatekeeper/exibicao/select?q=id_cidade:96&callback=callbackShows&json.wrf=callbackShows&wt=json&rows=100000&sort=id_canal+asc%2Cdh_inicio+asc&fl=dh_fim+dh_inicio+st_titulo+titulo+id_programa+id_canal&fq=dh_inicio%3A%5B2014-02-03T00%3A00%3A00Z+TO+2014-02-03T02%3A59%3A00Z%5D+dh_fim%3A%5B2014-02-03T00%3A01%3A00Z+TO+2014-02-03T03%3A00%3A00Z%5D&_=1391460596600
+
+http://programacao.netcombo.com.br/gatekeeper/exibicao/select?q=id_cidade:96&callback=callbackShows&json.wrf=callbackShows&wt=json&rows=100000&sort=id_canal+asc%2Cdh_inicio+asc&fl=dh_fim+dh_inicio+st_titulo+titulo+id_programa+id_canal&fq=dh_inicio:[2014-02-03T00:00:00Z TO 2014-02-03T02:59:00Z] dh_fim:[2014-02-03T00:01:00Z TO 2014-02-03T03:00:00Z]
+																																																														[2014-02-10T21:01:00Z TO 2014-02-11T00:00:00Z]																												
+
+http://programacao.netcombo.com.br/gatekeeper/exibicao/select?q=id_cidade:96&callback=callbackShows&json.wrf=callbackShows&wt=json&rows=100000&sort=id_canal+asc%2Cdh_inicio+asc&fl=dh_fim+dh_inicio+st_titulo+titulo+id_programa+id_canal&fq=dh_inicio:[2014-02-03T00:00:00Z TO 2014-02-08T23:59:00Z] dh_fim:[2014-02-08T00:01:00Z TO 2014-02-09T00:00:00Z]
+
+================
+
+http://programacao.netcombo.com.br/gatekeeper/exibicao/select?q=id_cidade:96&callback=callbackShows&json.wrf=callbackShows&wt=json&rows=100000&sort=id_canal+asc%2Cdh_inicio+asc&fl=dh_fim+dh_inicio+st_titulo+titulo+id_programa+id_canal&fq=dh_inicio:[2014-02-03T00:30:00Z TO 2014-02-03T23:59:00Z] dh_fim:[2014-02-03T00:31:00Z TO 2014-02-04T00:00:00Z]     = OK
+
+http://programacao.netcombo.com.br/gatekeeper/exibicao/select?q=id_cidade:96&callback=callbackShows&json.wrf=callbackShows&wt=json&rows=100000&sort=id_canal+asc%2Cdh_inicio+asc&fl=dh_fim+dh_inicio+st_titulo+titulo+id_programa+id_canal&fq=dh_inicio:[2014-02-03T21:00:00Z TO 2014-02-03T23:59:00Z] dh_fim:[2014-02-03T21:01:00Z TO 2014-02-04T00:00:00Z]
