@@ -1,0 +1,5014 @@
+callbackShows({
+   "response":{
+      "docs":[
+         {
+            "titulo":"Cãobeleireiros: Desfile de Moda",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"caobeleireiros_desfile_de_moda",
+            "id_canal":"407",
+            "id_programa":"1401946"
+         },
+         {
+            "titulo":"ABC Canino",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"abc_canino",
+            "id_canal":"407",
+            "id_programa":"1409984"
+         },
+         {
+            "titulo":"Pit bulls e Condenados - Temp.3 - Ep.9",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"pit_bulls_e_condenados__temp3__ep9",
+            "id_canal":"407",
+            "id_programa":"1409564"
+         },
+         {
+            "titulo":"Os Simpsons",
+            "dh_fim":"2014-02-04T16:50Z",
+            "dh_inicio":"2014-02-04T15:50Z",
+            "st_titulo":"os_simpsons",
+            "id_canal":"408",
+            "id_programa":"146722"
+         },
+         {
+            "titulo":"Brasil Urgente - Edição Local",
+            "dh_fim":"2014-02-04T17:50Z",
+            "dh_inicio":"2014-02-04T16:50Z",
+            "st_titulo":"brasil_urgente__edicao_local",
+            "id_canal":"408",
+            "id_programa":"1324026"
+         },
+         {
+            "titulo":"Brasil Urgente",
+            "dh_fim":"2014-02-04T19:15Z",
+            "dh_inicio":"2014-02-04T17:50Z",
+            "st_titulo":"brasil_urgente",
+            "id_canal":"408",
+            "id_programa":"96516"
+         },
+         {
+            "titulo":"BBC World News",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"bbc_world_news",
+            "id_canal":"409",
+            "id_programa":"1085526"
+         },
+         {
+            "titulo":"BBC Focus on Africa",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"bbc_focus_on_africa",
+            "id_canal":"409",
+            "id_programa":"1091179"
+         },
+         {
+            "titulo":"BBC World News",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"bbc_world_news",
+            "id_canal":"409",
+            "id_programa":"1085526"
+         },
+         {
+            "titulo":"World Business Report",
+            "dh_fim":"2014-02-04T17:45Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"world_business_report",
+            "id_canal":"409",
+            "id_programa":"1093036"
+         },
+         {
+            "titulo":"Sport Today",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:45Z",
+            "st_titulo":"sport_today",
+            "id_canal":"409",
+            "id_programa":"1087418"
+         },
+         {
+            "titulo":"World News Today with Zeinab Badawi",
+            "dh_fim":"2014-02-04T19:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"world_news_today_with_zeinab_badawi",
+            "id_canal":"409",
+            "id_programa":"1292222"
+         },
+         {
+            "titulo":"Em Busca da Princesa dos Mitos",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T15:00Z",
+            "st_titulo":"em_busca_da_princesa_dos_mitos",
+            "id_canal":"410",
+            "id_programa":"1387882"
+         },
+         {
+            "titulo":"Instant Star",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"instant_star",
+            "id_canal":"410",
+            "id_programa":"1403199"
+         },
+         {
+            "titulo":"Dance Academy",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"dance_academy",
+            "id_canal":"410",
+            "id_programa":"1087445"
+         },
+         {
+            "titulo":"Parental Control",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"parental_control",
+            "id_canal":"410",
+            "id_programa":"1085545"
+         },
+         {
+            "titulo":"Saindo com a Minha Mãe",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"saindo_com_a_minha_mae",
+            "id_canal":"410",
+            "id_programa":"1403696"
+         },
+         {
+            "titulo":"Apenas um Show",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"apenas_um_show",
+            "id_canal":"412",
+            "id_programa":"1089344"
+         },
+         {
+            "titulo":"Legend of Chima",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"legend_of_chima",
+            "id_canal":"412",
+            "id_programa":"1320547"
+         },
+         {
+            "titulo":"Transformers Prime",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"transformers_prime",
+            "id_canal":"412",
+            "id_programa":"1308948"
+         },
+         {
+            "titulo":"Grojband",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"grojband",
+            "id_canal":"412",
+            "id_programa":"1402972"
+         },
+         {
+            "titulo":"A CQ: Confusões ao Quadrado",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"a_cq_confusoes_ao_quadrado",
+            "id_canal":"412",
+            "id_programa":"1207149"
+         },
+         {
+            "titulo":"Compositores Unidos - Pedro Luís, Fagner e Convidados",
+            "dh_fim":"2014-02-04T16:05Z",
+            "dh_inicio":"2014-02-04T15:30Z",
+            "st_titulo":"compositores_unidos__pedro_luis,_fagner_e_convidados",
+            "id_canal":"414",
+            "id_programa":"1409118"
+         },
+         {
+            "titulo":"Estúdio 66: Fernando Moura e Ary Dias",
+            "dh_fim":"2014-02-04T16:25Z",
+            "dh_inicio":"2014-02-04T16:05Z",
+            "st_titulo":"estudio_66_fernando_moura_e_ary_dias",
+            "id_canal":"414",
+            "id_programa":"1411876"
+         },
+         {
+            "titulo":"Mateus, O Balconista - Tipos",
+            "dh_fim":"2014-02-04T16:40Z",
+            "dh_inicio":"2014-02-04T16:25Z",
+            "st_titulo":"mateus,_o_balconista__tipos",
+            "id_canal":"414",
+            "id_programa":"1409269"
+         },
+         {
+            "titulo":"Que Estranha Forma de Amar",
+            "dh_fim":"2014-02-04T18:25Z",
+            "dh_inicio":"2014-02-04T16:40Z",
+            "st_titulo":"que_estranha_forma_de_amar",
+            "id_canal":"414",
+            "id_programa":"1395773"
+         },
+         {
+            "titulo":"A Grande Feira",
+            "dh_fim":"2014-02-04T20:00Z",
+            "dh_inicio":"2014-02-04T18:25Z",
+            "st_titulo":"a_grande_feira",
+            "id_canal":"414",
+            "id_programa":"1396278"
+         },
+         {
+            "titulo":"Ponto e Linha",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"ponto_e_linha",
+            "id_canal":"415",
+            "id_programa":"1400530"
+         },
+         {
+            "titulo":"Escola de Culinária",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"escola_de_culinaria",
+            "id_canal":"415",
+            "id_programa":"100510"
+         },
+         {
+            "titulo":"Tudo Simples",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"tudo_simples",
+            "id_canal":"415",
+            "id_programa":"1400821"
+         },
+         {
+            "titulo":"Super Express",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"super_express",
+            "id_canal":"415",
+            "id_programa":"131324"
+         },
+         {
+            "titulo":"Contato Médico",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"contato_medico",
+            "id_canal":"415",
+            "id_programa":"1402545"
+         },
+         {
+            "titulo":"Galeria de Artesanato",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"galeria_de_artesanato",
+            "id_canal":"415",
+            "id_programa":"1380612"
+         },
+         {
+            "titulo":"World Sport",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"world_sport",
+            "id_canal":"416",
+            "id_programa":"1096862"
+         },
+         {
+            "titulo":"Special - WUS - Special - WUS",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"special__wus__special__wus",
+            "id_canal":"416",
+            "id_programa":"1285193"
+         },
+         {
+            "titulo":"International Desk",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"international_desk",
+            "id_canal":"416",
+            "id_programa":"1085661"
+         },
+         {
+            "titulo":"Quest Means Business",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"quest_means_business",
+            "id_canal":"416",
+            "id_programa":"1096863"
+         },
+         {
+            "titulo":"Por Dentro da West Coast Customs: Salão VIP - Temp.1 - Ep.6",
+            "dh_fim":"2014-02-04T16:48Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"por_dentro_da_west_coast_customs_salao_vip__temp1__ep6",
+            "id_canal":"419",
+            "id_programa":"1364680"
+         },
+         {
+            "titulo":"Cemitério de Carros: Preocupações - Temp.2 - Ep.6",
+            "dh_fim":"2014-02-04T17:36Z",
+            "dh_inicio":"2014-02-04T16:48Z",
+            "st_titulo":"cemiterio_de_carros_preocupacoes__temp2__ep6",
+            "id_canal":"419",
+            "id_programa":"1392988"
+         },
+         {
+            "titulo":"Tesouros Militares: Tanque Japonês - Temp.1 - Ep.1",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:36Z",
+            "st_titulo":"tesouros_militares_tanque_japones__temp1__ep1",
+            "id_canal":"419",
+            "id_programa":"1405788"
+         },
+         {
+            "titulo":"Tesouros Militares: Armas da Segunda Guerra - Temp.1 - Ep.2",
+            "dh_fim":"2014-02-04T18:24Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"tesouros_militares_armas_da_segunda_guerra__temp1__ep2",
+            "id_canal":"419",
+            "id_programa":"1405234"
+         },
+         {
+            "titulo":"Turbinados: Carros no Cinema - Temp.1 - Ep.6",
+            "dh_fim":"2014-02-04T18:48Z",
+            "dh_inicio":"2014-02-04T18:24Z",
+            "st_titulo":"turbinados_carros_no_cinema__temp1__ep6",
+            "id_canal":"419",
+            "id_programa":"1356002"
+         },
+         {
+            "titulo":"Turbinados: Arte em Metal - Temp.1 - Ep.7",
+            "dh_fim":"2014-02-04T19:12Z",
+            "dh_inicio":"2014-02-04T18:48Z",
+            "st_titulo":"turbinados_arte_em_metal__temp1__ep7",
+            "id_canal":"419",
+            "id_programa":"1357950"
+         },
+         {
+            "titulo":"Lalaloopsy: Uma Árvore Especial - Temp.1 - Ep.11",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"lalaloopsy_uma_arvore_especial__temp1__ep11",
+            "id_canal":"420",
+            "id_programa":"1352235"
+         },
+         {
+            "titulo":"Milly e Molly: A Montanha / Billy e Dália",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"milly_e_molly_a_montanha__billy_e_dalia",
+            "id_canal":"420",
+            "id_programa":"1390454"
+         },
+         {
+            "titulo":"The Fresh Beat Band: A Dança do Lava-rápido - Temp.2 - Ep.13",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"the_fresh_beat_band_a_danca_do_lavarapido__temp2__ep13",
+            "id_canal":"420",
+            "id_programa":"1390099"
+         },
+         {
+            "titulo":"Mike, o Cavaleiro",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"mike,_o_cavaleiro",
+            "id_canal":"420",
+            "id_programa":"1412192"
+         },
+         {
+            "titulo":"Hi-5 Austrália: Desejos - Temp.13 - Ep.25",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"hi5_australia_desejos__temp13__ep25",
+            "id_canal":"420",
+            "id_programa":"1412568"
+         },
+         {
+            "titulo":"Super Why!",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"super_why",
+            "id_canal":"420",
+            "id_programa":"1402160"
+         },
+         {
+            "titulo":"Grandes Missões da NASA: Apollo - Aterrissagem Lunar",
+            "dh_fim":"2014-02-04T16:48Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"grandes_missoes_da_nasa_apollo__aterrissagem_lunar",
+            "id_canal":"422",
+            "id_programa":"1400733"
+         },
+         {
+            "titulo":"Grandes Missões da NASA: Mercúrio - Primeiros Astronautas",
+            "dh_fim":"2014-02-04T17:36Z",
+            "dh_inicio":"2014-02-04T16:48Z",
+            "st_titulo":"grandes_missoes_da_nasa_mercurio__primeiros_astronautas",
+            "id_canal":"422",
+            "id_programa":"1395470"
+         },
+         {
+            "titulo":"À Prova de Tudo: A Savana Africana",
+            "dh_fim":"2014-02-04T18:24Z",
+            "dh_inicio":"2014-02-04T17:36Z",
+            "st_titulo":"a_prova_de_tudo_a_savana_africana",
+            "id_canal":"422",
+            "id_programa":"1403330"
+         },
+         {
+            "titulo":"À Prova de Tudo: A Savana Africana",
+            "dh_fim":"2014-02-04T19:12Z",
+            "dh_inicio":"2014-02-04T18:24Z",
+            "st_titulo":"a_prova_de_tudo_a_savana_africana",
+            "id_canal":"422",
+            "id_programa":"1403330"
+         },
+         {
+            "titulo":"Universo Exposto",
+            "dh_fim":"2014-02-04T16:48Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"universo_exposto",
+            "id_canal":"423",
+            "id_programa":"1394620"
+         },
+         {
+            "titulo":"Grandes Mistérios do Universo com Morgan Freeman: Podemos Eliminar o Mal? - Temp.3 - Ep.7",
+            "dh_fim":"2014-02-04T17:36Z",
+            "dh_inicio":"2014-02-04T16:48Z",
+            "st_titulo":"grandes_misterios_do_universo_com_morgan_freeman_podemos_eliminar_o_mal__temp3__ep7",
+            "id_canal":"423",
+            "id_programa":"1400837"
+         },
+         {
+            "titulo":"Caçadores de Tempestades",
+            "dh_fim":"2014-02-04T18:24Z",
+            "dh_inicio":"2014-02-04T17:36Z",
+            "st_titulo":"cacadores_de_tempestades",
+            "id_canal":"423",
+            "id_programa":"1401133"
+         },
+         {
+            "titulo":"O Mundo do Futuro: A Inteligência",
+            "dh_fim":"2014-02-04T19:12Z",
+            "dh_inicio":"2014-02-04T18:24Z",
+            "st_titulo":"o_mundo_do_futuro_a_inteligencia",
+            "id_canal":"423",
+            "id_programa":"1375867"
+         },
+         {
+            "titulo":"E! Special: Katy Perry",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"e_special_katy_perry",
+            "id_canal":"425",
+            "id_programa":"1401859"
+         },
+         {
+            "titulo":"E! News",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"e_news",
+            "id_canal":"425",
+            "id_programa":"1097141"
+         },
+         {
+            "titulo":"Garotas da Capa",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"garotas_da_capa",
+            "id_canal":"425",
+            "id_programa":"1408947"
+         },
+         {
+            "titulo":"Garotas da Capa",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"garotas_da_capa",
+            "id_canal":"425",
+            "id_programa":"1408947"
+         },
+         {
+            "titulo":"Show da Rodada do Campeonato Inglês",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"show_da_rodada_do_campeonato_ingles",
+            "id_canal":"426",
+            "id_programa":"1308673"
+         },
+         {
+            "titulo":"Show da Rodada do Campeonato Espanhol",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"show_da_rodada_do_campeonato_espanhol",
+            "id_canal":"426",
+            "id_programa":"1087915"
+         },
+         {
+            "titulo":"ESPN Brasil Especial",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"espn_brasil_especial",
+            "id_canal":"426",
+            "id_programa":"1404784"
+         },
+         {
+            "titulo":"Loucos por Futebol",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"loucos_por_futebol",
+            "id_canal":"426",
+            "id_programa":"1184717"
+         },
+         {
+            "titulo":"Campeonato Alemão",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"campeonato_alemao",
+            "id_canal":"427",
+            "id_programa":"1379454"
+         },
+         {
+            "titulo":"Campeonato Francês",
+            "dh_fim":"2014-02-04T20:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"campeonato_frances",
+            "id_canal":"427",
+            "id_programa":"1393412"
+         },
+         {
+            "titulo":"O Príncipe do Egito",
+            "dh_fim":"2014-02-04T17:25Z",
+            "dh_inicio":"2014-02-04T15:45Z",
+            "st_titulo":"o_principe_do_egito",
+            "id_canal":"429",
+            "id_programa":"1401157"
+         },
+         {
+            "titulo":"Os Seis Signos da Luz",
+            "dh_fim":"2014-02-04T19:10Z",
+            "dh_inicio":"2014-02-04T17:25Z",
+            "st_titulo":"os_seis_signos_da_luz",
+            "id_canal":"429",
+            "id_programa":"1378926"
+         },
+         {
+            "titulo":"Globo Universidade",
+            "dh_fim":"2014-02-04T16:25Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"globo_universidade",
+            "id_canal":"430",
+            "id_programa":"1407165"
+         },
+         {
+            "titulo":"Conexão Futura",
+            "dh_fim":"2014-02-04T16:50Z",
+            "dh_inicio":"2014-02-04T16:25Z",
+            "st_titulo":"conexao_futura",
+            "id_canal":"430",
+            "id_programa":"100775"
+         },
+         {
+            "titulo":"Euronews",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:50Z",
+            "st_titulo":"euronews",
+            "id_canal":"430",
+            "id_programa":"1325216"
+         },
+         {
+            "titulo":"Estação Saúde: Ataque Cardíaco",
+            "dh_fim":"2014-02-04T17:25Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"estacao_saude_ataque_cardiaco",
+            "id_canal":"430",
+            "id_programa":"1324658"
+         },
+         {
+            "titulo":"Boletim Futura",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:25Z",
+            "st_titulo":"boletim_futura",
+            "id_canal":"430",
+            "id_programa":"1393437"
+         },
+         {
+            "titulo":"Aprender a Empreender: Pousadas e Hotéis - Marketing",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"aprender_a_empreender_pousadas_e_hoteis__marketing",
+            "id_canal":"430",
+            "id_programa":"1405276"
+         },
+         {
+            "titulo":"Jornal Futura",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"jornal_futura",
+            "id_canal":"430",
+            "id_programa":"100756"
+         },
+         {
+            "titulo":"As Aventuras de Tintin",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"as_aventuras_de_tintin",
+            "id_canal":"430",
+            "id_programa":"1393060"
+         },
+         {
+            "titulo":"Estúdio i",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T15:00Z",
+            "st_titulo":"estudio_i",
+            "id_canal":"432",
+            "id_programa":"1095524"
+         },
+         {
+            "titulo":"Globo News Literatura",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"globo_news_literatura",
+            "id_canal":"432",
+            "id_programa":"1086230"
+         },
+         {
+            "titulo":"Jornal Globo News",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"jornal_globo_news",
+            "id_canal":"432",
+            "id_programa":"1088099"
+         },
+         {
+            "titulo":"Navegador",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"navegador",
+            "id_canal":"432",
+            "id_programa":"1364199"
+         },
+         {
+            "titulo":"Jornal Globo News",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"jornal_globo_news",
+            "id_canal":"432",
+            "id_programa":"1088099"
+         },
+         {
+            "titulo":"Milênio",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"milenio",
+            "id_canal":"432",
+            "id_programa":"1095523"
+         },
+         {
+            "titulo":"Parenthood - Uma História de Família - Temp.2 - Ep.4",
+            "dh_fim":"2014-02-04T16:59Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"parenthood__uma_historia_de_familia__temp2__ep4",
+            "id_canal":"433",
+            "id_programa":"1375773"
+         },
+         {
+            "titulo":"Momento Maternidade",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:59Z",
+            "st_titulo":"momento_maternidade",
+            "id_canal":"433",
+            "id_programa":"1346575"
+         },
+         {
+            "titulo":"Faixa de Areia",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"faixa_de_areia",
+            "id_canal":"433",
+            "id_programa":"1407260"
+         },
+         {
+            "titulo":"Diário do Olivier",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"diario_do_olivier",
+            "id_canal":"433",
+            "id_programa":"1405220"
+         },
+         {
+            "titulo":"Que Marravilha!",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"que_marravilha",
+            "id_canal":"433",
+            "id_programa":"1408651"
+         },
+         {
+            "titulo":"Tempero de Família Verão",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"tempero_de_familia_verao",
+            "id_canal":"433",
+            "id_programa":"1407197"
+         },
+         {
+            "titulo":"Caras & Bocas",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T15:35Z",
+            "st_titulo":"caras__bocas",
+            "id_canal":"435",
+            "id_programa":"1404743"
+         },
+         {
+            "titulo":"Na Trilha da Vitória",
+            "dh_fim":"2014-02-04T18:55Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"na_trilha_da_vitoria",
+            "id_canal":"435",
+            "id_programa":"1412846"
+         },
+         {
+            "titulo":"Globo Notícia",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:55Z",
+            "st_titulo":"globo_noticia",
+            "id_canal":"435",
+            "id_programa":"101066"
+         },
+         {
+            "titulo":"Contágio",
+            "dh_fim":"2014-02-04T16:50Z",
+            "dh_inicio":"2014-02-04T14:53Z",
+            "st_titulo":"contagio",
+            "id_canal":"436",
+            "id_programa":"1298490"
+         },
+         {
+            "titulo":"Um Assassino entre Nós",
+            "dh_fim":"2014-02-04T18:25Z",
+            "dh_inicio":"2014-02-04T16:50Z",
+            "st_titulo":"um_assassino_entre_nos",
+            "id_canal":"436",
+            "id_programa":"1348628"
+         },
+         {
+            "titulo":"The Big C - Temp.4 - Ep.2",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:25Z",
+            "st_titulo":"the_big_c__temp4__ep2",
+            "id_canal":"436",
+            "id_programa":"1403155"
+         },
+         {
+            "titulo":"O Guarda-Costas",
+            "dh_fim":"2014-02-04T16:50Z",
+            "dh_inicio":"2014-02-04T14:30Z",
+            "st_titulo":"o_guardacostas",
+            "id_canal":"437",
+            "id_programa":"1244508"
+         },
+         {
+            "titulo":"W.e. - O Romance do Século",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T16:50Z",
+            "st_titulo":"we__o_romance_do_seculo",
+            "id_canal":"437",
+            "id_programa":"1389808"
+         },
+         {
+            "titulo":"Fome de Quê?: Doces do Bem - Temp.1 - Ep.4",
+            "dh_fim":"2014-02-04T16:05Z",
+            "dh_inicio":"2014-02-04T15:40Z",
+            "st_titulo":"fome_de_que_doces_do_bem__temp1__ep4",
+            "id_canal":"438",
+            "id_programa":"1345294"
+         },
+         {
+            "titulo":"Segredos de uma Chef: O Segredo da Canja de Galinha - Temp.5 - Ep.1",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:05Z",
+            "st_titulo":"segredos_de_uma_chef_o_segredo_da_canja_de_galinha__temp5__ep1",
+            "id_canal":"438",
+            "id_programa":"1387173"
+         },
+         {
+            "titulo":"Cake Boss: Entrando numa Fria - Temp.3 - Ep.6",
+            "dh_fim":"2014-02-04T16:55Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"cake_boss_entrando_numa_fria__temp3__ep6",
+            "id_canal":"438",
+            "id_programa":"1384234"
+         },
+         {
+            "titulo":"Cake Boss: Era Medieval - Temp.3 - Ep.7",
+            "dh_fim":"2014-02-04T17:20Z",
+            "dh_inicio":"2014-02-04T16:55Z",
+            "st_titulo":"cake_boss_era_medieval__temp3__ep7",
+            "id_canal":"438",
+            "id_programa":"1386337"
+         },
+         {
+            "titulo":"Junior MasterChef - Temp.1 - Ep.15",
+            "dh_fim":"2014-02-04T18:10Z",
+            "dh_inicio":"2014-02-04T17:20Z",
+            "st_titulo":"junior_masterchef__temp1__ep15",
+            "id_canal":"438",
+            "id_programa":"1402613"
+         },
+         {
+            "titulo":"Batalha dos Confeiteiros: Efeitos Especiais",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:10Z",
+            "st_titulo":"batalha_dos_confeiteiros_efeitos_especiais",
+            "id_canal":"438",
+            "id_programa":"1401634"
+         },
+         {
+            "titulo":"As Aventuras de Merlin - Temp.5 - Ep.1",
+            "dh_fim":"2014-02-04T16:15Z",
+            "dh_inicio":"2014-02-04T15:25Z",
+            "st_titulo":"as_aventuras_de_merlin__temp5__ep1",
+            "id_canal":"439",
+            "id_programa":"1375370"
+         },
+         {
+            "titulo":"Charlie e a História de um Brinquedo",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T16:15Z",
+            "st_titulo":"charlie_e_a_historia_de_um_brinquedo",
+            "id_canal":"439",
+            "id_programa":"1393675"
+         },
+         {
+            "titulo":"Viagem 2: A Ilha Misteriosa",
+            "dh_fim":"2014-02-04T19:40Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"viagem_2_a_ilha_misteriosa",
+            "id_canal":"439",
+            "id_programa":"1247423"
+         },
+         {
+            "titulo":"Terra do Gás - Parte 2",
+            "dh_fim":"2014-02-04T17:25Z",
+            "dh_inicio":"2014-02-04T15:15Z",
+            "st_titulo":"terra_do_gas__parte_2",
+            "id_canal":"440",
+            "id_programa":"1357295"
+         },
+         {
+            "titulo":"Betty e Coretta",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T17:25Z",
+            "st_titulo":"betty_e_coretta",
+            "id_canal":"440",
+            "id_programa":"1301865"
+         },
+         {
+            "titulo":"Trato Feito: Saquem as Armas",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"trato_feito_saquem_as_armas",
+            "id_canal":"441",
+            "id_programa":"1381723"
+         },
+         {
+            "titulo":"Trato Feito: Fogo à Moda Antiga",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"trato_feito_fogo_a_moda_antiga",
+            "id_canal":"441",
+            "id_programa":"1380040"
+         },
+         {
+            "titulo":"Bonnie & Clyde",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"bonnie__clyde",
+            "id_canal":"441",
+            "id_programa":"1412340"
+         },
+         {
+            "titulo":"Alienígenas do Passado: Alienígenas e Armas Mortais",
+            "dh_fim":"2014-02-04T19:15Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"alienigenas_do_passado_alienigenas_e_armas_mortais",
+            "id_canal":"441",
+            "id_programa":"1391430"
+         },
+         {
+            "titulo":"AMIGAS PARA SEMPRE",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T15:00Z",
+            "st_titulo":"amigas_para_sempre",
+            "id_canal":"442",
+            "id_programa":"1408884"
+         },
+         {
+            "titulo":"TENTAÇÃO",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"tentacao",
+            "id_canal":"442",
+            "id_programa":"1394992"
+         },
+         {
+            "titulo":"IRMÃS PREPARADAS",
+            "dh_fim":"2014-02-04T20:30Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"irmas_preparadas",
+            "id_canal":"442",
+            "id_programa":"1391575"
+         },
+         {
+            "titulo":"Conan",
+            "dh_fim":"2014-02-04T16:55Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"conan",
+            "id_canal":"443",
+            "id_programa":"1090054"
+         },
+         {
+            "titulo":"O Guarda",
+            "dh_fim":"2014-02-04T18:43Z",
+            "dh_inicio":"2014-02-04T16:55Z",
+            "st_titulo":"o_guarda",
+            "id_canal":"443",
+            "id_programa":"1391402"
+         },
+         {
+            "titulo":"Big Easy Express",
+            "dh_fim":"2014-02-04T20:00Z",
+            "dh_inicio":"2014-02-04T18:43Z",
+            "st_titulo":"big_easy_express",
+            "id_canal":"443",
+            "id_programa":"1302190"
+         },
+         {
+            "titulo":"O Senhor dos Anéis: O Retorno do Rei",
+            "dh_fim":"2014-02-04T16:40Z",
+            "dh_inicio":"2014-02-04T13:08Z",
+            "st_titulo":"o_senhor_dos_aneis_o_retorno_do_rei",
+            "id_canal":"444",
+            "id_programa":"1313826"
+         },
+         {
+            "titulo":"Corajosos",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T16:40Z",
+            "st_titulo":"corajosos",
+            "id_canal":"444",
+            "id_programa":"1371191"
+         },
+         {
+            "titulo":"O Bicho Vai Pegar 3",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"o_bicho_vai_pegar_3",
+            "id_canal":"445",
+            "id_programa":"1376784"
+         },
+         {
+            "titulo":"Planeta X",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"planeta_x",
+            "id_canal":"445",
+            "id_programa":"1393962"
+         },
+         {
+            "titulo":"Os Padrinhos Mágicos",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"os_padrinhos_magicos",
+            "id_canal":"445",
+            "id_programa":"99868"
+         },
+         {
+            "titulo":"Beyblade Metal Master",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"beyblade_metal_master",
+            "id_canal":"445",
+            "id_programa":"1088301"
+         },
+         {
+            "titulo":"O Caçador",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T14:45Z",
+            "st_titulo":"o_cacador",
+            "id_canal":"446",
+            "id_programa":"1383790"
+         },
+         {
+            "titulo":"Agente H - Conspiração Terrorista",
+            "dh_fim":"2014-02-04T18:25Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"agente_h__conspiracao_terrorista",
+            "id_canal":"446",
+            "id_programa":"1393677"
+         },
+         {
+            "titulo":"Troia",
+            "dh_fim":"2014-02-04T21:15Z",
+            "dh_inicio":"2014-02-04T18:25Z",
+            "st_titulo":"troia",
+            "id_canal":"446",
+            "id_programa":"1212548"
+         },
+         {
+            "titulo":"A Experiência",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T14:50Z",
+            "st_titulo":"a_experiencia",
+            "id_canal":"447",
+            "id_programa":"1291552"
+         },
+         {
+            "titulo":"Guerra dos Mundos",
+            "dh_fim":"2014-02-04T19:10Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"guerra_dos_mundos",
+            "id_canal":"447",
+            "id_programa":"1387225"
+         },
+         {
+            "titulo":"American Yakuza - O Início",
+            "dh_fim":"2014-02-04T16:40Z",
+            "dh_inicio":"2014-02-04T14:50Z",
+            "st_titulo":"american_yakuza__o_inicio",
+            "id_canal":"448",
+            "id_programa":"1394407"
+         },
+         {
+            "titulo":"Yas Island: Top Speed, Full Emotion",
+            "dh_fim":"2014-02-04T17:10Z",
+            "dh_inicio":"2014-02-04T16:40Z",
+            "st_titulo":"yas_island_top_speed,_full_emotion",
+            "id_canal":"448",
+            "id_programa":"1095759"
+         },
+         {
+            "titulo":"Tai Chi Zero",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T17:10Z",
+            "st_titulo":"tai_chi_zero",
+            "id_canal":"448",
+            "id_programa":"1372827"
+         },
+         {
+            "titulo":"MIB - Homens de Preto",
+            "dh_fim":"2014-02-04T17:05Z",
+            "dh_inicio":"2014-02-04T15:15Z",
+            "st_titulo":"mib__homens_de_preto",
+            "id_canal":"449",
+            "id_programa":"1393769"
+         },
+         {
+            "titulo":"Resident Evil 5 - Retribuição",
+            "dh_fim":"2014-02-04T18:50Z",
+            "dh_inicio":"2014-02-04T17:05Z",
+            "st_titulo":"resident_evil_5__retribuicao",
+            "id_canal":"449",
+            "id_programa":"1293630"
+         },
+         {
+            "titulo":"Batman",
+            "dh_fim":"2014-02-04T21:05Z",
+            "dh_inicio":"2014-02-04T18:50Z",
+            "st_titulo":"batman",
+            "id_canal":"449",
+            "id_programa":"1270535"
+         },
+         {
+            "titulo":"Só Rindo com Betty White",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"so_rindo_com_betty_white",
+            "id_canal":"450",
+            "id_programa":"1296968"
+         },
+         {
+            "titulo":"Video Killed The Radio Star: Metallica",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"video_killed_the_radio_star_metallica",
+            "id_canal":"450",
+            "id_programa":"1411602"
+         },
+         {
+            "titulo":"Conexões Urbanas",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"conexoes_urbanas",
+            "id_canal":"450",
+            "id_programa":"1364505"
+         },
+         {
+            "titulo":"Sound",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"sound",
+            "id_canal":"450",
+            "id_programa":"1240351"
+         },
+         {
+            "titulo":"De Volta Pra Pista",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"de_volta_pra_pista",
+            "id_canal":"450",
+            "id_programa":"1350017"
+         },
+         {
+            "titulo":"Meu Passado Me Condena",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"meu_passado_me_condena",
+            "id_canal":"450",
+            "id_programa":"1365077"
+         },
+         {
+            "titulo":"La Hija Natural",
+            "dh_fim":"2014-02-04T16:10Z",
+            "dh_inicio":"2014-02-04T14:30Z",
+            "st_titulo":"la_hija_natural",
+            "id_canal":"453",
+            "id_programa":"1405819"
+         },
+         {
+            "titulo":"Herói Tai Chi",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T16:10Z",
+            "st_titulo":"heroi_tai_chi",
+            "id_canal":"453",
+            "id_programa":"1394995"
+         },
+         {
+            "titulo":"O Impostor",
+            "dh_fim":"2014-02-04T19:45Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"o_impostor",
+            "id_canal":"453",
+            "id_programa":"1348330"
+         },
+         {
+            "titulo":"The Vampire Diaries - Temp.4 - Ep.13",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"the_vampire_diaries__temp4__ep13",
+            "id_canal":"456",
+            "id_programa":"1412164"
+         },
+         {
+            "titulo":"The O.C. - Temp.4 - Ep.6",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"the_oc__temp4__ep6",
+            "id_canal":"456",
+            "id_programa":"1412189"
+         },
+         {
+            "titulo":"Awkward - Temp.2 - Ep.10",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"awkward__temp2__ep10",
+            "id_canal":"456",
+            "id_programa":"1382203"
+         },
+         {
+            "titulo":"Ridiculousness - Temp.2 - Ep.17",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"ridiculousness__temp2__ep17",
+            "id_canal":"456",
+            "id_programa":"1411730"
+         },
+         {
+            "titulo":"Quem dá Mais?: Queimando o Filme - Temp.4 - Ep.85",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"quem_da_mais_queimando_o_filme__temp4__ep85",
+            "id_canal":"457",
+            "id_programa":"1399577"
+         },
+         {
+            "titulo":"Quem dá Mais?: Surpresas do Ofício",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"quem_da_mais_surpresas_do_oficio",
+            "id_canal":"457",
+            "id_programa":"1392861"
+         },
+         {
+            "titulo":"Obsessivos Compulsivos: Lloyd e Carol",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"obsessivos_compulsivos_lloyd_e_carol",
+            "id_canal":"457",
+            "id_programa":"1396849"
+         },
+         {
+            "titulo":"Manhunters: Na Hora Certa",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"manhunters_na_hora_certa",
+            "id_canal":"457",
+            "id_programa":"1383592"
+         },
+         {
+            "titulo":"Crime 360: Briga Fatal",
+            "dh_fim":"2014-02-04T19:15Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"crime_360_briga_fatal",
+            "id_canal":"457",
+            "id_programa":"1407380"
+         },
+         {
+            "titulo":"Videografia - Goldfrapp",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"videografia__goldfrapp",
+            "id_canal":"458",
+            "id_programa":"1404897"
+         },
+         {
+            "titulo":"Videografia - Mika",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"videografia__mika",
+            "id_canal":"458",
+            "id_programa":"1404902"
+         },
+         {
+            "titulo":"NEO",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"neo",
+            "id_canal":"458",
+            "id_programa":"1273714"
+         },
+         {
+            "titulo":"Kaos Brasilis",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"kaos_brasilis",
+            "id_canal":"458",
+            "id_programa":"1098579"
+         },
+         {
+            "titulo":"Casa & Conforto",
+            "dh_fim":"2014-02-04T16:55Z",
+            "dh_inicio":"2014-02-04T15:55Z",
+            "st_titulo":"casa__conforto",
+            "id_canal":"459",
+            "id_programa":"104737"
+         },
+         {
+            "titulo":"Forma & Beleza",
+            "dh_fim":"2014-02-04T17:25Z",
+            "dh_inicio":"2014-02-04T16:55Z",
+            "st_titulo":"forma__beleza",
+            "id_canal":"459",
+            "id_programa":"127490"
+         },
+         {
+            "titulo":"Hora Perfeita",
+            "dh_fim":"2014-02-04T18:25Z",
+            "dh_inicio":"2014-02-04T17:25Z",
+            "st_titulo":"hora_perfeita",
+            "id_canal":"459",
+            "id_programa":"410015"
+         },
+         {
+            "titulo":"Mundo Feminino",
+            "dh_fim":"2014-02-04T19:25Z",
+            "dh_inicio":"2014-02-04T18:25Z",
+            "st_titulo":"mundo_feminino",
+            "id_canal":"459",
+            "id_programa":"104739"
+         },
+         {
+            "titulo":"Tomorrow",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"tomorrow",
+            "id_canal":"461",
+            "id_programa":"1381048"
+         },
+         {
+            "titulo":"Haiku Poetry",
+            "dh_fim":"2014-02-04T16:55Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"haiku_poetry",
+            "id_canal":"461",
+            "id_programa":"1090433"
+         },
+         {
+            "titulo":"Cooking for Beginners",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:55Z",
+            "st_titulo":"cooking_for_beginners",
+            "id_canal":"461",
+            "id_programa":"1097823"
+         },
+         {
+            "titulo":"The Treasures of the Konoe Family",
+            "dh_fim":"2014-02-04T17:59Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"the_treasures_of_the_konoe_family",
+            "id_canal":"461",
+            "id_programa":"1402467"
+         },
+         {
+            "titulo":"World Weather",
+            "dh_fim":"2014-02-04T18:01Z",
+            "dh_inicio":"2014-02-04T17:59Z",
+            "st_titulo":"world_weather",
+            "id_canal":"461",
+            "id_programa":"1095939"
+         },
+         {
+            "titulo":"Kid's Discovery",
+            "dh_fim":"2014-02-04T18:16Z",
+            "dh_inicio":"2014-02-04T18:01Z",
+            "st_titulo":"kids_discovery",
+            "id_canal":"461",
+            "id_programa":"1090425"
+         },
+         {
+            "titulo":"With Mother",
+            "dh_fim":"2014-02-04T18:39Z",
+            "dh_inicio":"2014-02-04T18:16Z",
+            "st_titulo":"with_mother",
+            "id_canal":"461",
+            "id_programa":"1088520"
+         },
+         {
+            "titulo":"Hook Book Row",
+            "dh_fim":"2014-02-04T18:50Z",
+            "dh_inicio":"2014-02-04T18:39Z",
+            "st_titulo":"hook_book_row",
+            "id_canal":"461",
+            "id_programa":"1094118"
+         },
+         {
+            "titulo":"NHK News",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:50Z",
+            "st_titulo":"nhk_news",
+            "id_canal":"461",
+            "id_programa":"1098722"
+         },
+         {
+            "titulo":"Kung Fu Panda - Temp.1 - Ep.23",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"kung_fu_panda__temp1__ep23",
+            "id_canal":"462",
+            "id_programa":"1290251"
+         },
+         {
+            "titulo":"Os Pinguins de Madagascar - Temp.1 - Ep.15",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"os_pinguins_de_madagascar__temp1__ep15",
+            "id_canal":"462",
+            "id_programa":"1382800"
+         },
+         {
+            "titulo":"Bob Esponja, Calça Quadrada - Temp.2 - Ep.37",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"bob_esponja,_calca_quadrada__temp2__ep37",
+            "id_canal":"462",
+            "id_programa":"1351173"
+         },
+         {
+            "titulo":"As Tartarugas Ninjas - Temp.1 - Ep.20",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"as_tartarugas_ninjas__temp1__ep20",
+            "id_canal":"462",
+            "id_programa":"1383855"
+         },
+         {
+            "titulo":"Kung Fu Panda - Temp.1 - Ep.4",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"kung_fu_panda__temp1__ep4",
+            "id_canal":"462",
+            "id_programa":"1290530"
+         },
+         {
+            "titulo":"Os Padrinhos Mágicos - Temp.1 - Ep.19",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"os_padrinhos_magicos__temp1__ep19",
+            "id_canal":"462",
+            "id_programa":"1386494"
+         },
+         {
+            "titulo":"La Vita in Diretta",
+            "dh_fim":"2014-02-04T17:45Z",
+            "dh_inicio":"2014-02-04T15:00Z",
+            "st_titulo":"la_vita_in_diretta",
+            "id_canal":"464",
+            "id_programa":"1339501"
+         },
+         {
+            "titulo":"Rai TG Sport",
+            "dh_fim":"2014-02-04T18:15Z",
+            "dh_inicio":"2014-02-04T17:45Z",
+            "st_titulo":"rai_tg_sport",
+            "id_canal":"464",
+            "id_programa":"1317705"
+         },
+         {
+            "titulo":"TG1",
+            "dh_fim":"2014-02-04T18:45Z",
+            "dh_inicio":"2014-02-04T18:15Z",
+            "st_titulo":"tg1",
+            "id_canal":"464",
+            "id_programa":"1096003"
+         },
+         {
+            "titulo":"Un Giorno Nella Storia",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:45Z",
+            "st_titulo":"un_giorno_nella_storia",
+            "id_canal":"464",
+            "id_programa":"1350267"
+         },
+         {
+            "titulo":"Programa da Tarde",
+            "dh_fim":"2014-02-04T18:20Z",
+            "dh_inicio":"2014-02-04T15:30Z",
+            "st_titulo":"programa_da_tarde",
+            "id_canal":"465",
+            "id_programa":"416468"
+         },
+         {
+            "titulo":"Cidade Alerta",
+            "dh_fim":"2014-02-04T19:45Z",
+            "dh_inicio":"2014-02-04T18:20Z",
+            "st_titulo":"cidade_alerta",
+            "id_canal":"465",
+            "id_programa":"376809"
+         },
+         {
+            "titulo":"A Tarde é Sua",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"a_tarde_e_sua",
+            "id_canal":"466",
+            "id_programa":"1092341"
+         },
+         {
+            "titulo":"Igreja da Graça, Nosso Programa",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"igreja_da_graca,_nosso_programa",
+            "id_canal":"466",
+            "id_programa":"1088615"
+         },
+         {
+            "titulo":"Arte Brasil",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"arte_brasil",
+            "id_canal":"467",
+            "id_programa":"1099963"
+         },
+         {
+            "titulo":"TV Champion",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"tv_champion",
+            "id_canal":"467",
+            "id_programa":"1086771"
+         },
+         {
+            "titulo":"Medalhão Persa",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"medalhao_persa",
+            "id_canal":"467",
+            "id_programa":"1334787"
+         },
+         {
+            "titulo":"C.S.I - Temp.14 - Ep.11",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"csi__temp14__ep11",
+            "id_canal":"469",
+            "id_programa":"1409244"
+         },
+         {
+            "titulo":"Scandal - Temp.3 - Ep.1",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"scandal__temp3__ep1",
+            "id_canal":"469",
+            "id_programa":"1409403"
+         },
+         {
+            "titulo":"Castle - Temp.2 - Ep.21",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"castle__temp2__ep21",
+            "id_canal":"469",
+            "id_programa":"1409257"
+         },
+         {
+            "titulo":"Futebol, Uma Viagem",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"futebol,_uma_viagem",
+            "id_canal":"470",
+            "id_programa":"1404432"
+         },
+         {
+            "titulo":"Europeu de Futsal: Portugal x Rússia",
+            "dh_fim":"2014-02-04T18:15Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"europeu_de_futsal_portugal_x_russia",
+            "id_canal":"470",
+            "id_programa":"1412104"
+         },
+         {
+            "titulo":"Gil Vicente x Benfica",
+            "dh_fim":"2014-02-04T20:15Z",
+            "dh_inicio":"2014-02-04T18:15Z",
+            "st_titulo":"gil_vicente_x_benfica",
+            "id_canal":"470",
+            "id_programa":"1412038"
+         },
+         {
+            "titulo":"Lorient x Monaco",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T14:30Z",
+            "st_titulo":"lorient_x_monaco",
+            "id_canal":"471",
+            "id_programa":"1411780"
+         },
+         {
+            "titulo":"Missão 2014",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"missao_2014",
+            "id_canal":"471",
+            "id_programa":"1347372"
+         },
+         {
+            "titulo":"Tá na Área",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"ta_na_area",
+            "id_canal":"471",
+            "id_programa":"1164329"
+         },
+         {
+            "titulo":"Superliga Masculina de Vôlei: Minas x Maringá",
+            "dh_fim":"2014-02-04T20:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"superliga_masculina_de_volei_minas_x_maringa",
+            "id_canal":"471",
+            "id_programa":"1412981"
+         },
+         {
+            "titulo":"Mundo Selvagem de Richard Rasm - Temp.1 - Ep.4",
+            "dh_fim":"2014-02-04T16:35Z",
+            "dh_inicio":"2014-02-04T15:45Z",
+            "st_titulo":"mundo_selvagem_de_richard_rasm__temp1__ep4",
+            "id_canal":"472",
+            "id_programa":"1329126"
+         },
+         {
+            "titulo":"O Reino do Leopardo",
+            "dh_fim":"2014-02-04T17:20Z",
+            "dh_inicio":"2014-02-04T16:35Z",
+            "st_titulo":"o_reino_do_leopardo",
+            "id_canal":"472",
+            "id_programa":"1388533"
+         },
+         {
+            "titulo":"Verdade ou Mito: Poderes Mediúnicos",
+            "dh_fim":"2014-02-04T17:40Z",
+            "dh_inicio":"2014-02-04T17:20Z",
+            "st_titulo":"verdade_ou_mito_poderes_mediunicos",
+            "id_canal":"472",
+            "id_programa":"1406330"
+         },
+         {
+            "titulo":"Tabu: Tolerância Zero",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T17:40Z",
+            "st_titulo":"tabu_tolerancia_zero",
+            "id_canal":"472",
+            "id_programa":"1331360"
+         },
+         {
+            "titulo":"Jogos Numéricos: Como Ganhar um Milhão? - Temp.1 - Ep.2",
+            "dh_fim":"2014-02-04T19:20Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"jogos_numericos_como_ganhar_um_milhao__temp1__ep2",
+            "id_canal":"472",
+            "id_programa":"1326932"
+         },
+         {
+            "titulo":"Atividade Paranormal 4",
+            "dh_fim":"2014-02-04T16:45Z",
+            "dh_inicio":"2014-02-04T15:00Z",
+            "st_titulo":"atividade_paranormal_4",
+            "id_canal":"473",
+            "id_programa":"1352179"
+         },
+         {
+            "titulo":"Branca de Neve e o Caçador",
+            "dh_fim":"2014-02-04T18:55Z",
+            "dh_inicio":"2014-02-04T16:45Z",
+            "st_titulo":"branca_de_neve_e_o_cacador",
+            "id_canal":"473",
+            "id_programa":"1381504"
+         },
+         {
+            "titulo":"Do Fundo do Coração",
+            "dh_fim":"2014-02-04T21:05Z",
+            "dh_inicio":"2014-02-04T18:55Z",
+            "st_titulo":"do_fundo_do_coracao",
+            "id_canal":"473",
+            "id_programa":"1409505"
+         },
+         {
+            "titulo":"Marcado para Morrer",
+            "dh_fim":"2014-02-04T17:10Z",
+            "dh_inicio":"2014-02-04T15:10Z",
+            "st_titulo":"marcado_para_morrer",
+            "id_canal":"474",
+            "id_programa":"1394849"
+         },
+         {
+            "titulo":"A Batalha de Riddick",
+            "dh_fim":"2014-02-04T19:15Z",
+            "dh_inicio":"2014-02-04T17:10Z",
+            "st_titulo":"a_batalha_de_riddick",
+            "id_canal":"474",
+            "id_programa":"1382478"
+         },
+         {
+            "titulo":"O Garoto de Liverpool",
+            "dh_fim":"2014-02-04T17:35Z",
+            "dh_inicio":"2014-02-04T15:50Z",
+            "st_titulo":"o_garoto_de_liverpool",
+            "id_canal":"475",
+            "id_programa":"1344395"
+         },
+         {
+            "titulo":"Um Time Especial",
+            "dh_fim":"2014-02-04T19:15Z",
+            "dh_inicio":"2014-02-04T17:35Z",
+            "st_titulo":"um_time_especial",
+            "id_canal":"475",
+            "id_programa":"1381823"
+         },
+         {
+            "titulo":"Busca Explosiva 3",
+            "dh_fim":"2014-02-04T17:05Z",
+            "dh_inicio":"2014-02-04T15:25Z",
+            "st_titulo":"busca_explosiva_3",
+            "id_canal":"476",
+            "id_programa":"1386035"
+         },
+         {
+            "titulo":"2 Dias em Nova York",
+            "dh_fim":"2014-02-04T18:55Z",
+            "dh_inicio":"2014-02-04T17:05Z",
+            "st_titulo":"2_dias_em_nova_york",
+            "id_canal":"476",
+            "id_programa":"1362289"
+         },
+         {
+            "titulo":"Sem Proteção",
+            "dh_fim":"2014-02-04T21:10Z",
+            "dh_inicio":"2014-02-04T18:55Z",
+            "st_titulo":"sem_protecao",
+            "id_canal":"476",
+            "id_programa":"1382152"
+         },
+         {
+            "titulo":"Envolto nas Sombras",
+            "dh_fim":"2014-02-04T17:45Z",
+            "dh_inicio":"2014-02-04T15:55Z",
+            "st_titulo":"envolto_nas_sombras",
+            "id_canal":"477",
+            "id_programa":"1394836"
+         },
+         {
+            "titulo":"Profissão Ladrão",
+            "dh_fim":"2014-02-04T20:00Z",
+            "dh_inicio":"2014-02-04T17:45Z",
+            "st_titulo":"profissao_ladrao",
+            "id_canal":"477",
+            "id_programa":"1409508"
+         },
+         {
+            "titulo":"Scott Pilgrim Contra o Mundo",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"scott_pilgrim_contra_o_mundo",
+            "id_canal":"478",
+            "id_programa":"1399539"
+         },
+         {
+            "titulo":"Uma Saída de Mestre",
+            "dh_fim":"2014-02-04T19:55Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"uma_saida_de_mestre",
+            "id_canal":"478",
+            "id_programa":"1243731"
+         },
+         {
+            "titulo":"Vizinho Assassino: Intenções Mortais - Temp.3 - Ep.6",
+            "dh_fim":"2014-02-04T16:22Z",
+            "dh_inicio":"2014-02-04T15:30Z",
+            "st_titulo":"vizinho_assassino_intencoes_mortais__temp3__ep6",
+            "id_canal":"479",
+            "id_programa":"1335426"
+         },
+         {
+            "titulo":"O Índice da Maldade: Receita do Mal",
+            "dh_fim":"2014-02-04T17:14Z",
+            "dh_inicio":"2014-02-04T16:22Z",
+            "st_titulo":"o_indice_da_maldade_receita_do_mal",
+            "id_canal":"479",
+            "id_programa":"1396440"
+         },
+         {
+            "titulo":"Suspeito Improvável: A Garotinha Perdida - Temp.2 - Ep.1",
+            "dh_fim":"2014-02-04T18:06Z",
+            "dh_inicio":"2014-02-04T17:14Z",
+            "st_titulo":"suspeito_improvavel_a_garotinha_perdida__temp2__ep1",
+            "id_canal":"479",
+            "id_programa":"1365621"
+         },
+         {
+            "titulo":"Amor Assassino: A Sangue Frio",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:06Z",
+            "st_titulo":"amor_assassino_a_sangue_frio",
+            "id_canal":"479",
+            "id_programa":"1377536"
+         },
+         {
+            "titulo":"64' Le Monde En Français",
+            "dh_fim":"2014-02-04T16:25Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"64_le_monde_en_francais",
+            "id_canal":"480",
+            "id_programa":"1364811"
+         },
+         {
+            "titulo":"Le Journal de L'Éco",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:25Z",
+            "st_titulo":"le_journal_de_leco",
+            "id_canal":"480",
+            "id_programa":"1394469"
+         },
+         {
+            "titulo":"Ricardo",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"ricardo",
+            "id_canal":"480",
+            "id_programa":"1336245"
+         },
+         {
+            "titulo":"Um Tira",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"um_tira",
+            "id_canal":"480",
+            "id_programa":"1370514"
+         },
+         {
+            "titulo":"S'il N'en Restait Qu'une",
+            "dh_fim":"2014-02-04T18:50Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"sil_nen_restait_quune",
+            "id_canal":"480",
+            "id_programa":"1406705"
+         },
+         {
+            "titulo":"L'invite",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:50Z",
+            "st_titulo":"linvite",
+            "id_canal":"480",
+            "id_programa":"1086958"
+         },
+         {
+            "titulo":"Criminal Minds - Temp.6 - Ep.2",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"criminal_minds__temp6__ep2",
+            "id_canal":"482",
+            "id_programa":"1404285"
+         },
+         {
+            "titulo":"Las Vegas - Temp.2 - Ep.16",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"las_vegas__temp2__ep16",
+            "id_canal":"482",
+            "id_programa":"1404251"
+         },
+         {
+            "titulo":"C.S.I. Miami - Temp.3 - Ep.3",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"csi_miami__temp3__ep3",
+            "id_canal":"482",
+            "id_programa":"1404705"
+         },
+         {
+            "titulo":"Correndo Atrás do Diploma",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T15:30Z",
+            "st_titulo":"correndo_atras_do_diploma",
+            "id_canal":"483",
+            "id_programa":"1398787"
+         },
+         {
+            "titulo":"Law & Order SVU",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"law__order_svu",
+            "id_canal":"483",
+            "id_programa":"1320770"
+         },
+         {
+            "titulo":"House",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"house",
+            "id_canal":"483",
+            "id_programa":"1391505"
+         },
+         {
+            "titulo":"As Panteras Detonando",
+            "dh_fim":"2014-02-04T16:45Z",
+            "dh_inicio":"2014-02-04T14:50Z",
+            "st_titulo":"as_panteras_detonando",
+            "id_canal":"485",
+            "id_programa":"1372910"
+         },
+         {
+            "titulo":"The Middle - Temp.1 - Ep.16",
+            "dh_fim":"2014-02-04T17:15Z",
+            "dh_inicio":"2014-02-04T16:45Z",
+            "st_titulo":"the_middle__temp1__ep16",
+            "id_canal":"485",
+            "id_programa":"1411275"
+         },
+         {
+            "titulo":"The Middle - Temp.1 - Ep.17",
+            "dh_fim":"2014-02-04T17:40Z",
+            "dh_inicio":"2014-02-04T17:15Z",
+            "st_titulo":"the_middle__temp1__ep17",
+            "id_canal":"485",
+            "id_programa":"1411571"
+         },
+         {
+            "titulo":"The Big Bang Theory - Temp.3 - Ep.7",
+            "dh_fim":"2014-02-04T18:05Z",
+            "dh_inicio":"2014-02-04T17:40Z",
+            "st_titulo":"the_big_bang_theory__temp3__ep7",
+            "id_canal":"485",
+            "id_programa":"1346002"
+         },
+         {
+            "titulo":"The Big Bang Theory - Temp.3 - Ep.8",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:05Z",
+            "st_titulo":"the_big_bang_theory__temp3__ep8",
+            "id_canal":"485",
+            "id_programa":"1345964"
+         },
+         {
+            "titulo":"Two and a Half Men - Temp.9 - Ep.3",
+            "dh_fim":"2014-02-04T18:55Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"two_and_a_half_men__temp9__ep3",
+            "id_canal":"485",
+            "id_programa":"1375525"
+         },
+         {
+            "titulo":"Two and a Half Men - Temp.9 - Ep.4",
+            "dh_fim":"2014-02-04T19:20Z",
+            "dh_inicio":"2014-02-04T18:55Z",
+            "st_titulo":"two_and_a_half_men__temp9__ep4",
+            "id_canal":"485",
+            "id_programa":"1375699"
+         },
+         {
+            "titulo":"Lunch Money",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"lunch_money",
+            "id_canal":"486",
+            "id_programa":"1100098"
+         },
+         {
+            "titulo":"Bloomberg West",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"bloomberg_west",
+            "id_canal":"486",
+            "id_programa":"1085536"
+         },
+         {
+            "titulo":"Money Moves",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"money_moves",
+            "id_canal":"486",
+            "id_programa":"1374936"
+         },
+         {
+            "titulo":"JUNGLE FIGHT 65",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T15:00Z",
+            "st_titulo":"jungle_fight_65",
+            "id_canal":"487",
+            "id_programa":"1397967"
+         },
+         {
+            "titulo":"UFC 169 - BARÃO X FABER",
+            "dh_fim":"2014-02-04T21:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"ufc_169__barao_x_faber",
+            "id_canal":"487",
+            "id_programa":"1412742"
+         },
+         {
+            "titulo":"Mythbusters: Os Caçadores de Mitos: Puxada de Toalha - Temp.7 - Ep.152",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T15:40Z",
+            "st_titulo":"mythbusters_os_cacadores_de_mitos_puxada_de_toalha__temp7__ep152",
+            "id_canal":"488",
+            "id_programa":"1325675"
+         },
+         {
+            "titulo":"À Prova de Tudo: Impressões da Equipe - Temp.4 - Ep.6",
+            "dh_fim":"2014-02-04T17:20Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"a_prova_de_tudo_impressoes_da_equipe__temp4__ep6",
+            "id_canal":"488",
+            "id_programa":"1409372"
+         },
+         {
+            "titulo":"A Supercâmera: Nitrogênio Líquido",
+            "dh_fim":"2014-02-04T17:45Z",
+            "dh_inicio":"2014-02-04T17:20Z",
+            "st_titulo":"a_supercamera_nitrogenio_liquido",
+            "id_canal":"488",
+            "id_programa":"1288962"
+         },
+         {
+            "titulo":"A Supercâmera: Chicote Supersônico",
+            "dh_fim":"2014-02-04T18:10Z",
+            "dh_inicio":"2014-02-04T17:45Z",
+            "st_titulo":"a_supercamera_chicote_supersonico",
+            "id_canal":"488",
+            "id_programa":"1325671"
+         },
+         {
+            "titulo":"Desafio em Dose Dupla Brasil: Montanha Abaixo",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:10Z",
+            "st_titulo":"desafio_em_dose_dupla_brasil_montanha_abaixo",
+            "id_canal":"488",
+            "id_programa":"1213770"
+         },
+         {
+            "titulo":"Confira as estreias do NOW e Pay-Per-View",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T13:00Z",
+            "st_titulo":"confira_as_estreias_do_now_e_payperview",
+            "id_canal":"489",
+            "id_programa":"415406"
+         },
+         {
+            "titulo":"Uma Família da Pesada - Temp.9 - Ep.22",
+            "dh_fim":"2014-02-04T16:20Z",
+            "dh_inicio":"2014-02-04T15:50Z",
+            "st_titulo":"uma_familia_da_pesada__temp9__ep22",
+            "id_canal":"490",
+            "id_programa":"1380356"
+         },
+         {
+            "titulo":"American Dad - Temp.8 - Ep.15",
+            "dh_fim":"2014-02-04T16:50Z",
+            "dh_inicio":"2014-02-04T16:20Z",
+            "st_titulo":"american_dad__temp8__ep15",
+            "id_canal":"490",
+            "id_programa":"1382009"
+         },
+         {
+            "titulo":"American Dad - Temp.8 - Ep.16",
+            "dh_fim":"2014-02-04T17:20Z",
+            "dh_inicio":"2014-02-04T16:50Z",
+            "st_titulo":"american_dad__temp8__ep16",
+            "id_canal":"490",
+            "id_programa":"1380987"
+         },
+         {
+            "titulo":"The Cleveland Show - Temp.3 - Ep.4",
+            "dh_fim":"2014-02-04T17:50Z",
+            "dh_inicio":"2014-02-04T17:20Z",
+            "st_titulo":"the_cleveland_show__temp3__ep4",
+            "id_canal":"490",
+            "id_programa":"1393481"
+         },
+         {
+            "titulo":"Volcano - A Fúria",
+            "dh_fim":"2014-02-04T19:40Z",
+            "dh_inicio":"2014-02-04T17:50Z",
+            "st_titulo":"volcano__a_furia",
+            "id_canal":"490",
+            "id_programa":"1397353"
+         },
+         {
+            "titulo":"The Taste - O Sabor da Vitoria - Temp.1 - Ep.2",
+            "dh_fim":"2014-02-04T16:40Z",
+            "dh_inicio":"2014-02-04T15:50Z",
+            "st_titulo":"the_taste__o_sabor_da_vitoria__temp1__ep2",
+            "id_canal":"492",
+            "id_programa":"1411175"
+         },
+         {
+            "titulo":"Kitchen Nightmares",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T16:40Z",
+            "st_titulo":"kitchen_nightmares",
+            "id_canal":"492",
+            "id_programa":"1235376"
+         },
+         {
+            "titulo":"Os Chefes sem Cozinha - Temp.1 - Ep.2",
+            "dh_fim":"2014-02-04T18:20Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"os_chefes_sem_cozinha__temp1__ep2",
+            "id_canal":"492",
+            "id_programa":"1411000"
+         },
+         {
+            "titulo":"Brasil no Prato",
+            "dh_fim":"2014-02-04T18:45Z",
+            "dh_inicio":"2014-02-04T18:20Z",
+            "st_titulo":"brasil_no_prato",
+            "id_canal":"492",
+            "id_programa":"131615"
+         },
+         {
+            "titulo":"Brasil no Prato",
+            "dh_fim":"2014-02-04T19:10Z",
+            "dh_inicio":"2014-02-04T18:45Z",
+            "st_titulo":"brasil_no_prato",
+            "id_canal":"492",
+            "id_programa":"131615"
+         },
+         {
+            "titulo":"Venda Premiere FC",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T15:30Z",
+            "st_titulo":"venda_premiere_fc",
+            "id_canal":"493",
+            "id_programa":"138371"
+         },
+         {
+            "titulo":"Venda Premiere FC",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"venda_premiere_fc",
+            "id_canal":"493",
+            "id_programa":"138371"
+         },
+         {
+            "titulo":"Venda Premiere FC",
+            "dh_fim":"2014-02-04T20:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"venda_premiere_fc",
+            "id_canal":"493",
+            "id_programa":"138371"
+         },
+         {
+            "titulo":"Hora de História: Vila Sésamo",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"hora_de_historia_vila_sesamo",
+            "id_canal":"494",
+            "id_programa":"356346"
+         },
+         {
+            "titulo":"Hora de História: Glub Glub",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"hora_de_historia_glub_glub",
+            "id_canal":"494",
+            "id_programa":"1398167"
+         },
+         {
+            "titulo":"Teatro Rá Tim Bum!: Rapunzel",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"teatro_ra_tim_bum_rapunzel",
+            "id_canal":"494",
+            "id_programa":"1381876"
+         },
+         {
+            "titulo":"É Hora, É Hora, É Hora, Rá Tim Bum: X-Tudo",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"e_hora,_e_hora,_e_hora,_ra_tim_bum_xtudo",
+            "id_canal":"494",
+            "id_programa":"356599"
+         },
+         {
+            "titulo":"É Hora, É Hora, É Hora, Rá Tim Bum: Mundo da Lua",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"e_hora,_e_hora,_e_hora,_ra_tim_bum_mundo_da_lua",
+            "id_canal":"494",
+            "id_programa":"356345"
+         },
+         {
+            "titulo":"PERCY JACKSON E O MAR DE MONSTROS - LEG",
+            "dh_fim":"2014-02-04T16:15Z",
+            "dh_inicio":"2014-02-04T14:15Z",
+            "st_titulo":"percy_jackson_e_o_mar_de_monstros__leg",
+            "id_canal":"496",
+            "id_programa":"1395019"
+         },
+         {
+            "titulo":"PERCY JACKSON E O MAR DE MONSTROS - LEG",
+            "dh_fim":"2014-02-04T18:15Z",
+            "dh_inicio":"2014-02-04T16:15Z",
+            "st_titulo":"percy_jackson_e_o_mar_de_monstros__leg",
+            "id_canal":"496",
+            "id_programa":"1395019"
+         },
+         {
+            "titulo":"PERCY JACKSON E O MAR DE MONSTROS - LEG",
+            "dh_fim":"2014-02-04T20:15Z",
+            "dh_inicio":"2014-02-04T18:15Z",
+            "st_titulo":"percy_jackson_e_o_mar_de_monstros__leg",
+            "id_canal":"496",
+            "id_programa":"1395019"
+         },
+         {
+            "titulo":"O CAVALEIRO SOLITÁRIO - LEG",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T15:00Z",
+            "st_titulo":"o_cavaleiro_solitario__leg",
+            "id_canal":"498",
+            "id_programa":"1395436"
+         },
+         {
+            "titulo":"O CAVALEIRO SOLITÁRIO - LEG",
+            "dh_fim":"2014-02-04T21:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"o_cavaleiro_solitario__leg",
+            "id_canal":"498",
+            "id_programa":"1395436"
+         },
+         {
+            "titulo":"Direto do Plenário",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T15:00Z",
+            "st_titulo":"direto_do_plenario",
+            "id_canal":"516",
+            "id_programa":"1193758"
+         },
+         {
+            "titulo":"O Encantador de Cavalos",
+            "dh_fim":"2014-02-04T19:05Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"o_encantador_de_cavalos",
+            "id_canal":"520",
+            "id_programa":"1407693"
+         },
+         {
+            "titulo":"Kitchen Boss - Temp.2 - Ep.4",
+            "dh_fim":"2014-02-04T16:15Z",
+            "dh_inicio":"2014-02-04T15:48Z",
+            "st_titulo":"kitchen_boss__temp2__ep4",
+            "id_canal":"525",
+            "id_programa":"1363722"
+         },
+         {
+            "titulo":"Hell's Kitchen - Temp.8 - Ep.7",
+            "dh_fim":"2014-02-04T17:10Z",
+            "dh_inicio":"2014-02-04T16:15Z",
+            "st_titulo":"hells_kitchen__temp8__ep7",
+            "id_canal":"525",
+            "id_programa":"1382661"
+         },
+         {
+            "titulo":"Viagens Maneiras: Mônaco; Itália; França; Suíça; ... - Temp.1 - Ep.9",
+            "dh_fim":"2014-02-04T17:38Z",
+            "dh_inicio":"2014-02-04T17:10Z",
+            "st_titulo":"viagens_maneiras_monaco_italia_franca_suica___temp1__ep9",
+            "id_canal":"525",
+            "id_programa":"1320526"
+         },
+         {
+            "titulo":"Viagens Maneiras: França; Espanha; Marrocos; Espanha - Temp.1 - Ep.10",
+            "dh_fim":"2014-02-04T18:05Z",
+            "dh_inicio":"2014-02-04T17:38Z",
+            "st_titulo":"viagens_maneiras_franca_espanha_marrocos_espanha__temp1__ep10",
+            "id_canal":"525",
+            "id_programa":"1320746"
+         },
+         {
+            "titulo":"Anthony Bourdain: Sem Reservas - Temp.8 - Ep.2",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:05Z",
+            "st_titulo":"anthony_bourdain_sem_reservas__temp8__ep2",
+            "id_canal":"525",
+            "id_programa":"1400827"
+         },
+         {
+            "titulo":"PONTO DE VISTA",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T15:30Z",
+            "st_titulo":"ponto_de_vista",
+            "id_canal":"527",
+            "id_programa":"1397974"
+         },
+         {
+            "titulo":"DARIA GLOWER PRIVADA",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"daria_glower_privada",
+            "id_canal":"527",
+            "id_programa":"1397977"
+         },
+         {
+            "titulo":"PELOS AO NATURAL 4",
+            "dh_fim":"2014-02-04T20:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"pelos_ao_natural_4",
+            "id_canal":"527",
+            "id_programa":"1401215"
+         },
+         {
+            "titulo":"Charmed - Temp.5 - Ep.17",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"charmed__temp5__ep17",
+            "id_canal":"530",
+            "id_programa":"1407224"
+         },
+         {
+            "titulo":"Battlestar Galactica - Temp.4 - Ep.8",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"battlestar_galactica__temp4__ep8",
+            "id_canal":"530",
+            "id_programa":"1408482"
+         },
+         {
+            "titulo":"Robot Combat League - Temp.1 - Ep.4",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"robot_combat_league__temp1__ep4",
+            "id_canal":"530",
+            "id_programa":"1382076"
+         },
+         {
+            "titulo":"A Creche do Papai",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T15:00Z",
+            "st_titulo":"a_creche_do_papai",
+            "id_canal":"531",
+            "id_programa":"1259312"
+         },
+         {
+            "titulo":"El Zorro: La Espada y la Rosa",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"el_zorro_la_espada_y_la_rosa",
+            "id_canal":"531",
+            "id_programa":"1347757"
+         },
+         {
+            "titulo":"The Guardian - Temp.2 - Ep.3",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"the_guardian__temp2__ep3",
+            "id_canal":"531",
+            "id_programa":"1406775"
+         },
+         {
+            "titulo":"A Máscara do Zorro",
+            "dh_fim":"2014-02-04T17:10Z",
+            "dh_inicio":"2014-02-04T14:35Z",
+            "st_titulo":"a_mascara_do_zorro",
+            "id_canal":"532",
+            "id_programa":"1248005"
+         },
+         {
+            "titulo":"Indiana Jones e a Última Cruzada",
+            "dh_fim":"2014-02-04T19:35Z",
+            "dh_inicio":"2014-02-04T17:10Z",
+            "st_titulo":"indiana_jones_e_a_ultima_cruzada",
+            "id_canal":"532",
+            "id_programa":"1274715"
+         },
+         {
+            "titulo":"The Line - Temp.3 - Ep.1",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"the_line__temp3__ep1",
+            "id_canal":"533",
+            "id_programa":"1403310"
+         },
+         {
+            "titulo":"Os Melhores Contos de Grimm",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"os_melhores_contos_de_grimm",
+            "id_canal":"533",
+            "id_programa":"1399332"
+         },
+         {
+            "titulo":"Os Aviadores - Temp.3 - Ep.13",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"os_aviadores__temp3__ep13",
+            "id_canal":"533",
+            "id_programa":"1401798"
+         },
+         {
+            "titulo":"Shifting Gears - Mundo Motor - Temp.2 - Ep.4",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"shifting_gears__mundo_motor__temp2__ep4",
+            "id_canal":"533",
+            "id_programa":"1400359"
+         },
+         {
+            "titulo":"All On The Line - Temp.1 - Ep.7",
+            "dh_fim":"2014-02-04T16:24Z",
+            "dh_inicio":"2014-02-04T15:37Z",
+            "st_titulo":"all_on_the_line__temp1__ep7",
+            "id_canal":"534",
+            "id_programa":"1382691"
+         },
+         {
+            "titulo":"All On The Line - Temp.1 - Ep.8",
+            "dh_fim":"2014-02-04T17:11Z",
+            "dh_inicio":"2014-02-04T16:24Z",
+            "st_titulo":"all_on_the_line__temp1__ep8",
+            "id_canal":"534",
+            "id_programa":"1293317"
+         },
+         {
+            "titulo":"The Renovators - Temp.1 - Ep.57",
+            "dh_fim":"2014-02-04T17:58Z",
+            "dh_inicio":"2014-02-04T17:11Z",
+            "st_titulo":"the_renovators__temp1__ep57",
+            "id_canal":"534",
+            "id_programa":"1384266"
+         },
+         {
+            "titulo":"The Renovators - Temp.1 - Ep.58",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T17:58Z",
+            "st_titulo":"the_renovators__temp1__ep58",
+            "id_canal":"534",
+            "id_programa":"1385851"
+         },
+         {
+            "titulo":"Os Simpsons",
+            "dh_fim":"2014-02-04T16:50Z",
+            "dh_inicio":"2014-02-04T15:50Z",
+            "st_titulo":"os_simpsons",
+            "id_canal":"545",
+            "id_programa":"146722"
+         },
+         {
+            "titulo":"Brasil Urgente - Edição Local",
+            "dh_fim":"2014-02-04T17:50Z",
+            "dh_inicio":"2014-02-04T16:50Z",
+            "st_titulo":"brasil_urgente__edicao_local",
+            "id_canal":"545",
+            "id_programa":"1324026"
+         },
+         {
+            "titulo":"Brasil Urgente",
+            "dh_fim":"2014-02-04T19:15Z",
+            "dh_inicio":"2014-02-04T17:50Z",
+            "st_titulo":"brasil_urgente",
+            "id_canal":"545",
+            "id_programa":"96516"
+         },
+         {
+            "titulo":"Journal - Nachrichten",
+            "dh_fim":"2014-02-04T16:15Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"journal__nachrichten",
+            "id_canal":"555",
+            "id_programa":"391039"
+         },
+         {
+            "titulo":"Im Focus - Dokumentationen und Reportagen",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:15Z",
+            "st_titulo":"im_focus__dokumentationen_und_reportagen",
+            "id_canal":"555",
+            "id_programa":"390985"
+         },
+         {
+            "titulo":"Journal - Nachrichten",
+            "dh_fim":"2014-02-04T17:03Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"journal__nachrichten",
+            "id_canal":"555",
+            "id_programa":"391039"
+         },
+         {
+            "titulo":"GLOBAL 3000 - Das Globalisierungsmagazin",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:03Z",
+            "st_titulo":"global_3000__das_globalisierungsmagazin",
+            "id_canal":"555",
+            "id_programa":"390910"
+         },
+         {
+            "titulo":"Kick off! - Der Bundesliga - Spieltag",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"kick_off__der_bundesliga__spieltag",
+            "id_canal":"555",
+            "id_programa":"1308379"
+         },
+         {
+            "titulo":"Hart aber fair - Politik Streitgespräch",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"hart_aber_fair__politik_streitgesprach",
+            "id_canal":"555",
+            "id_programa":"1316767"
+         },
+         {
+            "titulo":"The Vampire Diaries - Temp.4 - Ep.13",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"the_vampire_diaries__temp4__ep13",
+            "id_canal":"574",
+            "id_programa":"1412164"
+         },
+         {
+            "titulo":"The O.C. - Temp.4 - Ep.6",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"the_oc__temp4__ep6",
+            "id_canal":"574",
+            "id_programa":"1412189"
+         },
+         {
+            "titulo":"Awkward - Temp.2 - Ep.10",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"awkward__temp2__ep10",
+            "id_canal":"574",
+            "id_programa":"1382203"
+         },
+         {
+            "titulo":"Ridiculousness - Temp.2 - Ep.17",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"ridiculousness__temp2__ep17",
+            "id_canal":"574",
+            "id_programa":"1411730"
+         },
+         {
+            "titulo":"NBR Entrevista",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T15:45Z",
+            "st_titulo":"nbr_entrevista",
+            "id_canal":"576",
+            "id_programa":"103578"
+         },
+         {
+            "titulo":"Cultura Ponto a Ponto",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"cultura_ponto_a_ponto",
+            "id_canal":"576",
+            "id_programa":"103581"
+         },
+         {
+            "titulo":"Tecnologias Sociais",
+            "dh_fim":"2014-02-04T20:30Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"tecnologias_sociais",
+            "id_canal":"576",
+            "id_programa":"398304"
+         },
+         {
+            "titulo":"Dicas e novidades NET TV",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T15:00Z",
+            "st_titulo":"dicas_e_novidades_net_tv",
+            "id_canal":"578",
+            "id_programa":"122931"
+         },
+         {
+            "titulo":"Dicas e novidades NET TV",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"dicas_e_novidades_net_tv",
+            "id_canal":"578",
+            "id_programa":"122931"
+         },
+         {
+            "titulo":"Venda Premiere FC",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T15:00Z",
+            "st_titulo":"venda_premiere_fc",
+            "id_canal":"585",
+            "id_programa":"138371"
+         },
+         {
+            "titulo":"Venda Premiere FC",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"venda_premiere_fc",
+            "id_canal":"585",
+            "id_programa":"138371"
+         },
+         {
+            "titulo":"Vitória na TV",
+            "dh_fim":"2014-02-04T16:15Z",
+            "dh_inicio":"2014-02-04T15:45Z",
+            "st_titulo":"vitoria_na_tv",
+            "id_canal":"586",
+            "id_programa":"1223614"
+         },
+         {
+            "titulo":"TV FLA",
+            "dh_fim":"2014-02-04T16:45Z",
+            "dh_inicio":"2014-02-04T16:15Z",
+            "st_titulo":"tv_fla",
+            "id_canal":"586",
+            "id_programa":"1338005"
+         },
+         {
+            "titulo":"GO - Programa Oficial do Goiás Esporte Clube",
+            "dh_fim":"2014-02-04T17:15Z",
+            "dh_inicio":"2014-02-04T16:45Z",
+            "st_titulo":"go__programa_oficial_do_goias_esporte_clube",
+            "id_canal":"586",
+            "id_programa":"1275849"
+         },
+         {
+            "titulo":"TV CAP",
+            "dh_fim":"2014-02-04T17:45Z",
+            "dh_inicio":"2014-02-04T17:15Z",
+            "st_titulo":"tv_cap",
+            "id_canal":"586",
+            "id_programa":"1333430"
+         },
+         {
+            "titulo":"Nação Coxa Branca - Coritiba",
+            "dh_fim":"2014-02-04T18:15Z",
+            "dh_inicio":"2014-02-04T17:45Z",
+            "st_titulo":"nacao_coxa_branca__coritiba",
+            "id_canal":"586",
+            "id_programa":"1309234"
+         },
+         {
+            "titulo":"Premiere Internacional",
+            "dh_fim":"2014-02-04T20:00Z",
+            "dh_inicio":"2014-02-04T18:15Z",
+            "st_titulo":"premiere_internacional",
+            "id_canal":"586",
+            "id_programa":"1393329"
+         },
+         {
+            "titulo":"Venda Premiere FC",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T14:00Z",
+            "st_titulo":"venda_premiere_fc",
+            "id_canal":"587",
+            "id_programa":"138371"
+         },
+         {
+            "titulo":"Venda Premiere FC",
+            "dh_fim":"2014-02-04T20:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"venda_premiere_fc",
+            "id_canal":"587",
+            "id_programa":"138371"
+         },
+         {
+            "titulo":"Venda Premiere FC",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T13:30Z",
+            "st_titulo":"venda_premiere_fc",
+            "id_canal":"588",
+            "id_programa":"138371"
+         },
+         {
+            "titulo":"Venda Premiere FC",
+            "dh_fim":"2014-02-04T19:30Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"venda_premiere_fc",
+            "id_canal":"588",
+            "id_programa":"138371"
+         },
+         {
+            "titulo":"Hora News",
+            "dh_fim":"2014-02-04T17:15Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"hora_news",
+            "id_canal":"592",
+            "id_programa":"1097885"
+         },
+         {
+            "titulo":"Zapping",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:15Z",
+            "st_titulo":"zapping",
+            "id_canal":"592",
+            "id_programa":"1092339"
+         },
+         {
+            "titulo":"Hora News",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"hora_news",
+            "id_canal":"592",
+            "id_programa":"1097885"
+         },
+         {
+            "titulo":"A Tarde é Sua",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"a_tarde_e_sua",
+            "id_canal":"594",
+            "id_programa":"1092341"
+         },
+         {
+            "titulo":"Good News",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"good_news",
+            "id_canal":"594",
+            "id_programa":"1092342"
+         },
+         {
+            "titulo":"Ritmo Brasil",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"ritmo_brasil",
+            "id_canal":"594",
+            "id_programa":"1086763"
+         },
+         {
+            "titulo":"Galera do Surf",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"galera_do_surf",
+            "id_canal":"608",
+            "id_programa":"1094395"
+         },
+         {
+            "titulo":"Animalia",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"animalia",
+            "id_canal":"608",
+            "id_programa":"1270043"
+         },
+         {
+            "titulo":"Sem Censura",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"sem_censura",
+            "id_canal":"608",
+            "id_programa":"106101"
+         },
+         {
+            "titulo":"Conhecendo Museus",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"conhecendo_museus",
+            "id_canal":"608",
+            "id_programa":"336061"
+         },
+         {
+            "titulo":"Boa Tarde",
+            "dh_fim":"2014-02-04T17:15Z",
+            "dh_inicio":"2014-02-04T14:30Z",
+            "st_titulo":"boa_tarde",
+            "id_canal":"613",
+            "id_programa":"1096044"
+         },
+         {
+            "titulo":"Economia Verde",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:15Z",
+            "st_titulo":"economia_verde",
+            "id_canal":"613",
+            "id_programa":"1191424"
+         },
+         {
+            "titulo":"Obra Prima",
+            "dh_fim":"2014-02-04T17:45Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"obra_prima",
+            "id_canal":"613",
+            "id_programa":"1378728"
+         },
+         {
+            "titulo":"A Vida Antes Da Fama",
+            "dh_fim":"2014-02-04T18:15Z",
+            "dh_inicio":"2014-02-04T17:45Z",
+            "st_titulo":"a_vida_antes_da_fama",
+            "id_canal":"613",
+            "id_programa":"1399733"
+         },
+         {
+            "titulo":"Alô Portugal",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:15Z",
+            "st_titulo":"alo_portugal",
+            "id_canal":"613",
+            "id_programa":"1096043"
+         },
+         {
+            "titulo":"Programação Canal Art Latino",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"programacao_canal_art_latino",
+            "id_canal":"639",
+            "id_programa":"124467"
+         },
+         {
+            "titulo":"Programação Canal Art Latino",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"programacao_canal_art_latino",
+            "id_canal":"639",
+            "id_programa":"124467"
+         },
+         {
+            "titulo":"Programação Canal Art Latino",
+            "dh_fim":"2014-02-04T19:30Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"programacao_canal_art_latino",
+            "id_canal":"639",
+            "id_programa":"124467"
+         },
+         {
+            "titulo":"Invasão Plâncton",
+            "dh_fim":"2014-02-04T16:15Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"invasao_plancton",
+            "id_canal":"658",
+            "id_programa":"1269821"
+         },
+         {
+            "titulo":"Pergunte à Lara",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:15Z",
+            "st_titulo":"pergunte_a_lara",
+            "id_canal":"658",
+            "id_programa":"1269632"
+         },
+         {
+            "titulo":"Deu A Louca Na História",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"deu_a_louca_na_historia",
+            "id_canal":"658",
+            "id_programa":"1269979"
+         },
+         {
+            "titulo":"Poesis",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"poesis",
+            "id_canal":"658",
+            "id_programa":"1410952"
+         },
+         {
+            "titulo":"Poesis",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"poesis",
+            "id_canal":"658",
+            "id_programa":"1410952"
+         },
+         {
+            "titulo":"Mestres da Literatura",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"mestres_da_literatura",
+            "id_canal":"658",
+            "id_programa":"1336607"
+         },
+         {
+            "titulo":"Vira e Mexe",
+            "dh_fim":"2014-02-04T16:15Z",
+            "dh_inicio":"2014-02-04T15:30Z",
+            "st_titulo":"vira_e_mexe",
+            "id_canal":"667",
+            "id_programa":"1324245"
+         },
+         {
+            "titulo":"Algodão Doce",
+            "dh_fim":"2014-02-04T17:15Z",
+            "dh_inicio":"2014-02-04T16:15Z",
+            "st_titulo":"algodao_doce",
+            "id_canal":"667",
+            "id_programa":"1325071"
+         },
+         {
+            "titulo":"Fato do Dia",
+            "dh_fim":"2014-02-04T18:15Z",
+            "dh_inicio":"2014-02-04T17:15Z",
+            "st_titulo":"fato_do_dia",
+            "id_canal":"667",
+            "id_programa":"1392860"
+         },
+         {
+            "titulo":"Os Malas e a Lei",
+            "dh_fim":"2014-02-04T19:45Z",
+            "dh_inicio":"2014-02-04T18:15Z",
+            "st_titulo":"os_malas_e_a_lei",
+            "id_canal":"667",
+            "id_programa":"1325771"
+         },
+         {
+            "titulo":"Meu Nome é Rádio",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T14:15Z",
+            "st_titulo":"meu_nome_e_radio",
+            "id_canal":"692",
+            "id_programa":"1407672"
+         },
+         {
+            "titulo":"Julie & Julia",
+            "dh_fim":"2014-02-04T18:45Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"julie__julia",
+            "id_canal":"692",
+            "id_programa":"1396470"
+         },
+         {
+            "titulo":"Anaconda",
+            "dh_fim":"2014-02-04T20:30Z",
+            "dh_inicio":"2014-02-04T18:45Z",
+            "st_titulo":"anaconda",
+            "id_canal":"692",
+            "id_programa":"1332897"
+         },
+         {
+            "titulo":"MADURAS E NINFETAS",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T15:00Z",
+            "st_titulo":"maduras_e_ninfetas",
+            "id_canal":"798",
+            "id_programa":"1404232"
+         },
+         {
+            "titulo":"AS PANTERAS",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"as_panteras",
+            "id_canal":"798",
+            "id_programa":"1404163"
+         },
+         {
+            "titulo":"MILF QUENTES E CARENTES",
+            "dh_fim":"2014-02-04T19:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"milf_quentes_e_carentes",
+            "id_canal":"798",
+            "id_programa":"1402338"
+         },
+         {
+            "titulo":"Bubble Guppies",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"bubble_guppies",
+            "id_canal":"832",
+            "id_programa":"1350605"
+         },
+         {
+            "titulo":"Team Umizoomi - Temp.1 - Ep.12",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"team_umizoomi__temp1__ep12",
+            "id_canal":"832",
+            "id_programa":"1310928"
+         },
+         {
+            "titulo":"Patrulha Canina - Temp.1 - Ep.10",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"patrulha_canina__temp1__ep10",
+            "id_canal":"832",
+            "id_programa":"1357356"
+         },
+         {
+            "titulo":"Go Diego! Go!",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"go_diego_go",
+            "id_canal":"832",
+            "id_programa":"1356593"
+         },
+         {
+            "titulo":"Dora, a Aventureira - Temp.6 - Ep.20",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"dora,_a_aventureira__temp6__ep20",
+            "id_canal":"832",
+            "id_programa":"1378981"
+         },
+         {
+            "titulo":"Dora, a Aventureira - Temp.4 - Ep.9",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"dora,_a_aventureira__temp4__ep9",
+            "id_canal":"832",
+            "id_programa":"1388510"
+         },
+         {
+            "titulo":"Atividade Paranormal 4",
+            "dh_fim":"2014-02-04T16:45Z",
+            "dh_inicio":"2014-02-04T15:00Z",
+            "st_titulo":"atividade_paranormal_4",
+            "id_canal":"838",
+            "id_programa":"1352179"
+         },
+         {
+            "titulo":"Branca de Neve e o Caçador",
+            "dh_fim":"2014-02-04T18:55Z",
+            "dh_inicio":"2014-02-04T16:45Z",
+            "st_titulo":"branca_de_neve_e_o_cacador",
+            "id_canal":"838",
+            "id_programa":"1381504"
+         },
+         {
+            "titulo":"Do Fundo do Coração",
+            "dh_fim":"2014-02-04T21:05Z",
+            "dh_inicio":"2014-02-04T18:55Z",
+            "st_titulo":"do_fundo_do_coracao",
+            "id_canal":"838",
+            "id_programa":"1409505"
+         },
+         {
+            "titulo":"O Melhor Trabalho do Mundo",
+            "dh_fim":"2014-02-04T16:05Z",
+            "dh_inicio":"2014-02-04T15:40Z",
+            "st_titulo":"o_melhor_trabalho_do_mundo",
+            "id_canal":"839",
+            "id_programa":"1401677"
+         },
+         {
+            "titulo":"O Melhor Trabalho do Mundo",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:05Z",
+            "st_titulo":"o_melhor_trabalho_do_mundo",
+            "id_canal":"839",
+            "id_programa":"1400056"
+         },
+         {
+            "titulo":"A Corrida do Ouro - Temp.1 - Ep.1",
+            "dh_fim":"2014-02-04T17:20Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"a_corrida_do_ouro__temp1__ep1",
+            "id_canal":"839",
+            "id_programa":"1387960"
+         },
+         {
+            "titulo":"Desafio Alasca: Inferno Vertical - Temp.1 - Ep.10",
+            "dh_fim":"2014-02-04T18:10Z",
+            "dh_inicio":"2014-02-04T17:20Z",
+            "st_titulo":"desafio_alasca_inferno_vertical__temp1__ep10",
+            "id_canal":"839",
+            "id_programa":"1413157"
+         },
+         {
+            "titulo":"Arquivos Confidenciais: Saladino",
+            "dh_fim":"2014-02-04T18:35Z",
+            "dh_inicio":"2014-02-04T18:10Z",
+            "st_titulo":"arquivos_confidenciais_saladino",
+            "id_canal":"839",
+            "id_programa":"1412636"
+         },
+         {
+            "titulo":"Arquivos Confidenciais: Taj Mahal - Temp.2 - Ep.10",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:35Z",
+            "st_titulo":"arquivos_confidenciais_taj_mahal__temp2__ep10",
+            "id_canal":"839",
+            "id_programa":"1376705"
+         },
+         {
+            "titulo":"O Guarda-Costas",
+            "dh_fim":"2014-02-04T16:50Z",
+            "dh_inicio":"2014-02-04T14:30Z",
+            "st_titulo":"o_guardacostas",
+            "id_canal":"856",
+            "id_programa":"1244508"
+         },
+         {
+            "titulo":"W.e. - O Romance do Século",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T16:50Z",
+            "st_titulo":"we__o_romance_do_seculo",
+            "id_canal":"856",
+            "id_programa":"1389808"
+         },
+         {
+            "titulo":"Chaka Khan - Live At Lovebox 2012",
+            "dh_fim":"2014-02-04T16:05Z",
+            "dh_inicio":"2014-02-04T15:30Z",
+            "st_titulo":"chaka_khan__live_at_lovebox_2012",
+            "id_canal":"863",
+            "id_programa":"1413185"
+         },
+         {
+            "titulo":"Setlist",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:05Z",
+            "st_titulo":"setlist",
+            "id_canal":"863",
+            "id_programa":"194728"
+         },
+         {
+            "titulo":"Música na Mochila - República Dominicana",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"musica_na_mochila__republica_dominicana",
+            "id_canal":"863",
+            "id_programa":"1350653"
+         },
+         {
+            "titulo":"Minha Loja De Discos",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"minha_loja_de_discos",
+            "id_canal":"863",
+            "id_programa":"1281793"
+         },
+         {
+            "titulo":"Contos Do Rock - Temp.2 - Ep.13",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"contos_do_rock__temp2__ep13",
+            "id_canal":"863",
+            "id_programa":"1401735"
+         },
+         {
+            "titulo":"Soundstage/Specials - Sugarland",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"soundstagespecials__sugarland",
+            "id_canal":"863",
+            "id_programa":"1412123"
+         },
+         {
+            "titulo":"Premiere FC HD",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T13:00Z",
+            "st_titulo":"premiere_fc_hd",
+            "id_canal":"864",
+            "id_programa":"1241968"
+         },
+         {
+            "titulo":"Premiere FC HD",
+            "dh_fim":"2014-02-04T21:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"premiere_fc_hd",
+            "id_canal":"864",
+            "id_programa":"1241968"
+         },
+         {
+            "titulo":"Busca Explosiva 3",
+            "dh_fim":"2014-02-04T17:05Z",
+            "dh_inicio":"2014-02-04T15:25Z",
+            "st_titulo":"busca_explosiva_3",
+            "id_canal":"871",
+            "id_programa":"1386035"
+         },
+         {
+            "titulo":"2 Dias em Nova York",
+            "dh_fim":"2014-02-04T18:55Z",
+            "dh_inicio":"2014-02-04T17:05Z",
+            "st_titulo":"2_dias_em_nova_york",
+            "id_canal":"871",
+            "id_programa":"1362289"
+         },
+         {
+            "titulo":"Sem Proteção",
+            "dh_fim":"2014-02-04T21:10Z",
+            "dh_inicio":"2014-02-04T18:55Z",
+            "st_titulo":"sem_protecao",
+            "id_canal":"871",
+            "id_programa":"1382152"
+         },
+         {
+            "titulo":"Os Predadores Mais Perigosos - Temp.1 - Ep.2",
+            "dh_fim":"2014-02-04T16:50Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"os_predadores_mais_perigosos__temp1__ep2",
+            "id_canal":"873",
+            "id_programa":"1328494"
+         },
+         {
+            "titulo":"Quando os Tubarões Atacam",
+            "dh_fim":"2014-02-04T17:40Z",
+            "dh_inicio":"2014-02-04T16:50Z",
+            "st_titulo":"quando_os_tubaroes_atacam",
+            "id_canal":"873",
+            "id_programa":"1388858"
+         },
+         {
+            "titulo":"Vivendo Como os Animais: A Toca dos Castores",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T17:40Z",
+            "st_titulo":"vivendo_como_os_animais_a_toca_dos_castores",
+            "id_canal":"873",
+            "id_programa":"1329612"
+         },
+         {
+            "titulo":"Criaturas Mortais da África - Temp.1 - Ep.4",
+            "dh_fim":"2014-02-04T19:30Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"criaturas_mortais_da_africa__temp1__ep4",
+            "id_canal":"873",
+            "id_programa":"1389537"
+         },
+         {
+            "titulo":"Top Hits",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"top_hits",
+            "id_canal":"874",
+            "id_programa":"1225933"
+         },
+         {
+            "titulo":"VH1 HD World Stage: Linkin Park",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"vh1_hd_world_stage_linkin_park",
+            "id_canal":"874",
+            "id_programa":"1372135"
+         },
+         {
+            "titulo":"Top Hits",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"top_hits",
+            "id_canal":"874",
+            "id_programa":"1225933"
+         },
+         {
+            "titulo":"Scott Pilgrim Contra o Mundo",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"scott_pilgrim_contra_o_mundo",
+            "id_canal":"875",
+            "id_programa":"1399539"
+         },
+         {
+            "titulo":"Uma Saída de Mestre",
+            "dh_fim":"2014-02-04T19:55Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"uma_saida_de_mestre",
+            "id_canal":"875",
+            "id_programa":"1243731"
+         },
+         {
+            "titulo":"Inferno Vermelho",
+            "dh_fim":"2014-02-04T16:25Z",
+            "dh_inicio":"2014-02-04T14:43Z",
+            "st_titulo":"inferno_vermelho",
+            "id_canal":"876",
+            "id_programa":"1292564"
+         },
+         {
+            "titulo":"Eu Sou a Lenda",
+            "dh_fim":"2014-02-04T18:02Z",
+            "dh_inicio":"2014-02-04T16:25Z",
+            "st_titulo":"eu_sou_a_lenda",
+            "id_canal":"876",
+            "id_programa":"1260153"
+         },
+         {
+            "titulo":"Fúria de Titãs",
+            "dh_fim":"2014-02-04T19:42Z",
+            "dh_inicio":"2014-02-04T18:02Z",
+            "st_titulo":"furia_de_titas",
+            "id_canal":"876",
+            "id_programa":"1303837"
+         },
+         {
+            "titulo":"O Que É o Que É? - Temp.1 - Ep.1",
+            "dh_fim":"2014-02-04T16:24Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"o_que_e_o_que_e__temp1__ep1",
+            "id_canal":"877",
+            "id_programa":"1400877"
+         },
+         {
+            "titulo":"O Que É o Que É? - Temp.1 - Ep.2",
+            "dh_fim":"2014-02-04T16:48Z",
+            "dh_inicio":"2014-02-04T16:24Z",
+            "st_titulo":"o_que_e_o_que_e__temp1__ep2",
+            "id_canal":"877",
+            "id_programa":"1400689"
+         },
+         {
+            "titulo":"Pesca Mortal: Pesadelos - Temp.7 - Ep.15",
+            "dh_fim":"2014-02-04T17:36Z",
+            "dh_inicio":"2014-02-04T16:48Z",
+            "st_titulo":"pesca_mortal_pesadelos__temp7__ep15",
+            "id_canal":"877",
+            "id_programa":"1287201"
+         },
+         {
+            "titulo":"Pesca Mortal: Recompensas - Temp.7 - Ep.16",
+            "dh_fim":"2014-02-04T18:24Z",
+            "dh_inicio":"2014-02-04T17:36Z",
+            "st_titulo":"pesca_mortal_recompensas__temp7__ep16",
+            "id_canal":"877",
+            "id_programa":"1286115"
+         },
+         {
+            "titulo":"A Supercâmera: Arma de Eletrochoque",
+            "dh_fim":"2014-02-04T18:48Z",
+            "dh_inicio":"2014-02-04T18:24Z",
+            "st_titulo":"a_supercamera_arma_de_eletrochoque",
+            "id_canal":"877",
+            "id_programa":"1327046"
+         },
+         {
+            "titulo":"A Supercâmera: Cobaia Humana",
+            "dh_fim":"2014-02-04T19:12Z",
+            "dh_inicio":"2014-02-04T18:48Z",
+            "st_titulo":"a_supercamera_cobaia_humana",
+            "id_canal":"877",
+            "id_programa":"1397738"
+         },
+         {
+            "titulo":"A Máscara do Zorro",
+            "dh_fim":"2014-02-04T17:10Z",
+            "dh_inicio":"2014-02-04T14:35Z",
+            "st_titulo":"a_mascara_do_zorro",
+            "id_canal":"878",
+            "id_programa":"1248005"
+         },
+         {
+            "titulo":"Indiana Jones e a Última Cruzada",
+            "dh_fim":"2014-02-04T19:35Z",
+            "dh_inicio":"2014-02-04T17:10Z",
+            "st_titulo":"indiana_jones_e_a_ultima_cruzada",
+            "id_canal":"878",
+            "id_programa":"1274715"
+         },
+         {
+            "titulo":"Escultores de Areia - Temp.1 - Ep.4",
+            "dh_fim":"2014-02-04T16:24Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"escultores_de_areia__temp1__ep4",
+            "id_canal":"890",
+            "id_programa":"1400665"
+         },
+         {
+            "titulo":"Escultores de Areia - Temp.1 - Ep.2",
+            "dh_fim":"2014-02-04T16:48Z",
+            "dh_inicio":"2014-02-04T16:24Z",
+            "st_titulo":"escultores_de_areia__temp1__ep2",
+            "id_canal":"890",
+            "id_programa":"1397429"
+         },
+         {
+            "titulo":"Buying Alaska: Fora do Normal - Temp.1 - Ep.2",
+            "dh_fim":"2014-02-04T17:12Z",
+            "dh_inicio":"2014-02-04T16:48Z",
+            "st_titulo":"buying_alaska_fora_do_normal__temp1__ep2",
+            "id_canal":"890",
+            "id_programa":"1319064"
+         },
+         {
+            "titulo":"Buying Alaska: Cavernas - Temp.1 - Ep.10",
+            "dh_fim":"2014-02-04T17:36Z",
+            "dh_inicio":"2014-02-04T17:12Z",
+            "st_titulo":"buying_alaska_cavernas__temp1__ep10",
+            "id_canal":"890",
+            "id_programa":"1311705"
+         },
+         {
+            "titulo":"Mundo Amish: Rompendo as Regras - Los Angeles",
+            "dh_fim":"2014-02-04T18:24Z",
+            "dh_inicio":"2014-02-04T17:36Z",
+            "st_titulo":"mundo_amish_rompendo_as_regras__los_angeles",
+            "id_canal":"890",
+            "id_programa":"1396928"
+         },
+         {
+            "titulo":"1000 Lugares para Conhecer Antes de Morrer: Itália",
+            "dh_fim":"2014-02-04T19:12Z",
+            "dh_inicio":"2014-02-04T18:24Z",
+            "st_titulo":"1000_lugares_para_conhecer_antes_de_morrer_italia",
+            "id_canal":"890",
+            "id_programa":"1401941"
+         },
+         {
+            "titulo":"Atlantic Coast Conference: Notre Dame x Syracuse",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"atlantic_coast_conference_notre_dame_x_syracuse",
+            "id_canal":"893",
+            "id_programa":"1412300"
+         },
+         {
+            "titulo":"Campeonato Espanhol",
+            "dh_fim":"2014-02-04T20:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"campeonato_espanhol",
+            "id_canal":"893",
+            "id_programa":"1404964"
+         },
+         {
+            "titulo":"La Hija Natural",
+            "dh_fim":"2014-02-04T16:10Z",
+            "dh_inicio":"2014-02-04T14:30Z",
+            "st_titulo":"la_hija_natural",
+            "id_canal":"895",
+            "id_programa":"1405819"
+         },
+         {
+            "titulo":"Herói Tai Chi",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T16:10Z",
+            "st_titulo":"heroi_tai_chi",
+            "id_canal":"895",
+            "id_programa":"1394995"
+         },
+         {
+            "titulo":"O Impostor",
+            "dh_fim":"2014-02-04T19:45Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"o_impostor",
+            "id_canal":"895",
+            "id_programa":"1348330"
+         },
+         {
+            "titulo":"Inferno Vermelho",
+            "dh_fim":"2014-02-04T16:25Z",
+            "dh_inicio":"2014-02-04T14:43Z",
+            "st_titulo":"inferno_vermelho",
+            "id_canal":"897",
+            "id_programa":"1292564"
+         },
+         {
+            "titulo":"Eu Sou a Lenda",
+            "dh_fim":"2014-02-04T18:02Z",
+            "dh_inicio":"2014-02-04T16:25Z",
+            "st_titulo":"eu_sou_a_lenda",
+            "id_canal":"897",
+            "id_programa":"1260153"
+         },
+         {
+            "titulo":"Fúria de Titãs",
+            "dh_fim":"2014-02-04T19:42Z",
+            "dh_inicio":"2014-02-04T18:02Z",
+            "st_titulo":"furia_de_titas",
+            "id_canal":"897",
+            "id_programa":"1303837"
+         },
+         {
+            "titulo":"Marcado para Morrer",
+            "dh_fim":"2014-02-04T17:10Z",
+            "dh_inicio":"2014-02-04T15:10Z",
+            "st_titulo":"marcado_para_morrer",
+            "id_canal":"898",
+            "id_programa":"1394849"
+         },
+         {
+            "titulo":"A Batalha de Riddick",
+            "dh_fim":"2014-02-04T19:15Z",
+            "dh_inicio":"2014-02-04T17:10Z",
+            "st_titulo":"a_batalha_de_riddick",
+            "id_canal":"898",
+            "id_programa":"1382478"
+         },
+         {
+            "titulo":"Um Passe de Mágica",
+            "dh_fim":"2014-02-04T17:35Z",
+            "dh_inicio":"2014-02-04T15:55Z",
+            "st_titulo":"um_passe_de_magica",
+            "id_canal":"899",
+            "id_programa":"1382922"
+         },
+         {
+            "titulo":"Mulan",
+            "dh_fim":"2014-02-04T19:10Z",
+            "dh_inicio":"2014-02-04T17:35Z",
+            "st_titulo":"mulan",
+            "id_canal":"899",
+            "id_programa":"1396751"
+         },
+         {
+            "titulo":"Programa da Tarde",
+            "dh_fim":"2014-02-04T18:20Z",
+            "dh_inicio":"2014-02-04T15:30Z",
+            "st_titulo":"programa_da_tarde",
+            "id_canal":"1004",
+            "id_programa":"416468"
+         },
+         {
+            "titulo":"Cidade Alerta",
+            "dh_fim":"2014-02-04T19:45Z",
+            "dh_inicio":"2014-02-04T18:20Z",
+            "st_titulo":"cidade_alerta",
+            "id_canal":"1004",
+            "id_programa":"376809"
+         },
+         {
+            "titulo":"Confira as estreias do NOW e Pay-Per-View",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T13:00Z",
+            "st_titulo":"confira_as_estreias_do_now_e_payperview",
+            "id_canal":"1006",
+            "id_programa":"415406"
+         },
+         {
+            "titulo":"C.S.I - Temp.14 - Ep.11",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"csi__temp14__ep11",
+            "id_canal":"1008",
+            "id_programa":"1409244"
+         },
+         {
+            "titulo":"Scandal - Temp.3 - Ep.1",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"scandal__temp3__ep1",
+            "id_canal":"1008",
+            "id_programa":"1409403"
+         },
+         {
+            "titulo":"Castle - Temp.2 - Ep.21",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"castle__temp2__ep21",
+            "id_canal":"1008",
+            "id_programa":"1409257"
+         },
+         {
+            "titulo":"As Panteras Detonando",
+            "dh_fim":"2014-02-04T16:45Z",
+            "dh_inicio":"2014-02-04T14:50Z",
+            "st_titulo":"as_panteras_detonando",
+            "id_canal":"1009",
+            "id_programa":"1372910"
+         },
+         {
+            "titulo":"The Middle - Temp.1 - Ep.16",
+            "dh_fim":"2014-02-04T17:15Z",
+            "dh_inicio":"2014-02-04T16:45Z",
+            "st_titulo":"the_middle__temp1__ep16",
+            "id_canal":"1009",
+            "id_programa":"1411275"
+         },
+         {
+            "titulo":"The Middle - Temp.1 - Ep.17",
+            "dh_fim":"2014-02-04T17:40Z",
+            "dh_inicio":"2014-02-04T17:15Z",
+            "st_titulo":"the_middle__temp1__ep17",
+            "id_canal":"1009",
+            "id_programa":"1411571"
+         },
+         {
+            "titulo":"The Big Bang Theory - Temp.3 - Ep.7",
+            "dh_fim":"2014-02-04T18:05Z",
+            "dh_inicio":"2014-02-04T17:40Z",
+            "st_titulo":"the_big_bang_theory__temp3__ep7",
+            "id_canal":"1009",
+            "id_programa":"1346002"
+         },
+         {
+            "titulo":"The Big Bang Theory - Temp.3 - Ep.8",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:05Z",
+            "st_titulo":"the_big_bang_theory__temp3__ep8",
+            "id_canal":"1009",
+            "id_programa":"1345964"
+         },
+         {
+            "titulo":"Two and a Half Men - Temp.9 - Ep.3",
+            "dh_fim":"2014-02-04T18:55Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"two_and_a_half_men__temp9__ep3",
+            "id_canal":"1009",
+            "id_programa":"1375525"
+         },
+         {
+            "titulo":"Two and a Half Men - Temp.9 - Ep.4",
+            "dh_fim":"2014-02-04T19:20Z",
+            "dh_inicio":"2014-02-04T18:55Z",
+            "st_titulo":"two_and_a_half_men__temp9__ep4",
+            "id_canal":"1009",
+            "id_programa":"1375699"
+         },
+         {
+            "titulo":"Trato Feito: Atirando em Lincoln",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"trato_feito_atirando_em_lincoln",
+            "id_canal":"1011",
+            "id_programa":"1378357"
+         },
+         {
+            "titulo":"Trato Feito: Além da Conta",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"trato_feito_alem_da_conta",
+            "id_canal":"1011",
+            "id_programa":"1387932"
+         },
+         {
+            "titulo":"Quanto Vale A Terra?",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"quanto_vale_a_terra",
+            "id_canal":"1011",
+            "id_programa":"1400686"
+         },
+         {
+            "titulo":"Decifrando Milagres",
+            "dh_fim":"2014-02-04T19:15Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"decifrando_milagres",
+            "id_canal":"1011",
+            "id_programa":"1370974"
+         },
+         {
+            "titulo":"Venda Premiere FC",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T15:00Z",
+            "st_titulo":"venda_premiere_fc",
+            "id_canal":"1013",
+            "id_programa":"138371"
+         },
+         {
+            "titulo":"Venda Premiere FC",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"venda_premiere_fc",
+            "id_canal":"1013",
+            "id_programa":"138371"
+         },
+         {
+            "titulo":"BBB 14",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"bbb_14",
+            "id_canal":"1014",
+            "id_programa":"1408831"
+         },
+         {
+            "titulo":"Criminal Minds - Temp.6 - Ep.2",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"criminal_minds__temp6__ep2",
+            "id_canal":"1017",
+            "id_programa":"1404285"
+         },
+         {
+            "titulo":"Las Vegas - Temp.2 - Ep.16",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"las_vegas__temp2__ep16",
+            "id_canal":"1017",
+            "id_programa":"1404251"
+         },
+         {
+            "titulo":"C.S.I. Miami - Temp.3 - Ep.3",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"csi_miami__temp3__ep3",
+            "id_canal":"1017",
+            "id_programa":"1404705"
+         },
+         {
+            "titulo":"Um Passe de Mágica",
+            "dh_fim":"2014-02-04T17:35Z",
+            "dh_inicio":"2014-02-04T15:55Z",
+            "st_titulo":"um_passe_de_magica",
+            "id_canal":"1018",
+            "id_programa":"1382922"
+         },
+         {
+            "titulo":"Mulan",
+            "dh_fim":"2014-02-04T19:10Z",
+            "dh_inicio":"2014-02-04T17:35Z",
+            "st_titulo":"mulan",
+            "id_canal":"1018",
+            "id_programa":"1396751"
+         },
+         {
+            "titulo":"O Garoto de Liverpool",
+            "dh_fim":"2014-02-04T17:35Z",
+            "dh_inicio":"2014-02-04T15:50Z",
+            "st_titulo":"o_garoto_de_liverpool",
+            "id_canal":"1019",
+            "id_programa":"1344395"
+         },
+         {
+            "titulo":"Um Time Especial",
+            "dh_fim":"2014-02-04T19:15Z",
+            "dh_inicio":"2014-02-04T17:35Z",
+            "st_titulo":"um_time_especial",
+            "id_canal":"1019",
+            "id_programa":"1381823"
+         },
+         {
+            "titulo":"Prancha e Pé de Pato - Temp.1 - Ep.2",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"prancha_e_pe_de_pato__temp1__ep2",
+            "id_canal":"1020",
+            "id_programa":"1409317"
+         },
+         {
+            "titulo":"Mar Doce Lar",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"mar_doce_lar",
+            "id_canal":"1020",
+            "id_programa":"1409089"
+         },
+         {
+            "titulo":"OFF Docs",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"off_docs",
+            "id_canal":"1020",
+            "id_programa":"1409401"
+         },
+         {
+            "titulo":"Diário das Ilhas - Temp.2 - Ep.8",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"diario_das_ilhas__temp2__ep8",
+            "id_canal":"1020",
+            "id_programa":"1409481"
+         },
+         {
+            "titulo":"Quatro Remos - Temp.3 - Ep.2",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"quatro_remos__temp3__ep2",
+            "id_canal":"1020",
+            "id_programa":"1409483"
+         },
+         {
+            "titulo":"Campeões da Europa: Zenit Kazan x Berlin Volleys - Vivo",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T14:30Z",
+            "st_titulo":"campeoes_da_europa_zenit_kazan_x_berlin_volleys__vivo",
+            "id_canal":"1021",
+            "id_programa":"1408212"
+         },
+         {
+            "titulo":"Baita Amigos",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"baita_amigos",
+            "id_canal":"1021",
+            "id_programa":"1308514"
+         },
+         {
+            "titulo":"Band Sports.ZIP",
+            "dh_fim":"2014-02-04T18:15Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"band_sportszip",
+            "id_canal":"1021",
+            "id_programa":"1406716"
+         },
+         {
+            "titulo":"Europeu de Handebol",
+            "dh_fim":"2014-02-04T20:00Z",
+            "dh_inicio":"2014-02-04T18:15Z",
+            "st_titulo":"europeu_de_handebol",
+            "id_canal":"1021",
+            "id_programa":"1405014"
+         },
+         {
+            "titulo":"Campeões da Europa: Zenit Kazan x Berlin Volleys - Vivo",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T14:30Z",
+            "st_titulo":"campeoes_da_europa_zenit_kazan_x_berlin_volleys__vivo",
+            "id_canal":"1022",
+            "id_programa":"1408212"
+         },
+         {
+            "titulo":"Baita Amigos",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"baita_amigos",
+            "id_canal":"1022",
+            "id_programa":"1308514"
+         },
+         {
+            "titulo":"Band Sports.ZIP",
+            "dh_fim":"2014-02-04T18:15Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"band_sportszip",
+            "id_canal":"1022",
+            "id_programa":"1406716"
+         },
+         {
+            "titulo":"Europeu de Handebol",
+            "dh_fim":"2014-02-04T20:00Z",
+            "dh_inicio":"2014-02-04T18:15Z",
+            "st_titulo":"europeu_de_handebol",
+            "id_canal":"1022",
+            "id_programa":"1405014"
+         },
+         {
+            "titulo":"Torneio Internacional de Natação: Perth, Austrália",
+            "dh_fim":"2014-02-04T17:50Z",
+            "dh_inicio":"2014-02-04T15:50Z",
+            "st_titulo":"torneio_internacional_de_natacao_perth,_australia",
+            "id_canal":"1023",
+            "id_programa":"1406376"
+         },
+         {
+            "titulo":"Copa do Mundo de Esqui Alpino",
+            "dh_fim":"2014-02-04T19:50Z",
+            "dh_inicio":"2014-02-04T17:50Z",
+            "st_titulo":"copa_do_mundo_de_esqui_alpino",
+            "id_canal":"1023",
+            "id_programa":"1363945"
+         },
+         {
+            "titulo":"Mentiras Inocentes",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T15:15Z",
+            "st_titulo":"mentiras_inocentes",
+            "id_canal":"1025",
+            "id_programa":"1345502"
+         },
+         {
+            "titulo":"Inferno na Estrada",
+            "dh_fim":"2014-02-04T18:35Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"inferno_na_estrada",
+            "id_canal":"1025",
+            "id_programa":"1363524"
+         },
+         {
+            "titulo":"Desejo de Matar 2",
+            "dh_fim":"2014-02-04T20:10Z",
+            "dh_inicio":"2014-02-04T18:35Z",
+            "st_titulo":"desejo_de_matar_2",
+            "id_canal":"1025",
+            "id_programa":"1407911"
+         },
+         {
+            "titulo":"Rotas, Mapas e Dentes",
+            "dh_fim":"2014-02-04T16:15Z",
+            "dh_inicio":"2014-02-04T15:52Z",
+            "st_titulo":"rotas,_mapas_e_dentes",
+            "id_canal":"1026",
+            "id_programa":"1090567"
+         },
+         {
+            "titulo":"Tirando a Maior Onda",
+            "dh_fim":"2014-02-04T16:40Z",
+            "dh_inicio":"2014-02-04T16:15Z",
+            "st_titulo":"tirando_a_maior_onda",
+            "id_canal":"1026",
+            "id_programa":"369686"
+         },
+         {
+            "titulo":"A Garota dos Meus Sonhos",
+            "dh_fim":"2014-02-04T18:20Z",
+            "dh_inicio":"2014-02-04T16:40Z",
+            "st_titulo":"a_garota_dos_meus_sonhos",
+            "id_canal":"1026",
+            "id_programa":"1088375"
+         },
+         {
+            "titulo":"A Banda Do Casamento - Temp.1 - Ep.3",
+            "dh_fim":"2014-02-04T19:10Z",
+            "dh_inicio":"2014-02-04T18:20Z",
+            "st_titulo":"a_banda_do_casamento__temp1__ep3",
+            "id_canal":"1026",
+            "id_programa":"1366935"
+         },
+         {
+            "titulo":"VT - Lazio x Juventus",
+            "dh_fim":"2014-02-04T17:45Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"vt__lazio_x_juventus",
+            "id_canal":"1034",
+            "id_programa":"1407521"
+         },
+         {
+            "titulo":"Show do Campeonato Italiano",
+            "dh_fim":"2014-02-04T18:15Z",
+            "dh_inicio":"2014-02-04T17:45Z",
+            "st_titulo":"show_do_campeonato_italiano",
+            "id_canal":"1034",
+            "id_programa":"410826"
+         },
+         {
+            "titulo":"Pré Jogo - Vivo",
+            "dh_fim":"2014-02-04T18:45Z",
+            "dh_inicio":"2014-02-04T18:15Z",
+            "st_titulo":"pre_jogo__vivo",
+            "id_canal":"1034",
+            "id_programa":"1293641"
+         },
+         {
+            "titulo":"VT - Manchester United x Cardiff",
+            "dh_fim":"2014-02-04T20:45Z",
+            "dh_inicio":"2014-02-04T18:45Z",
+            "st_titulo":"vt__manchester_united_x_cardiff",
+            "id_canal":"1034",
+            "id_programa":"1411357"
+         },
+         {
+            "titulo":"VT - Lazio x Juventus",
+            "dh_fim":"2014-02-04T17:45Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"vt__lazio_x_juventus",
+            "id_canal":"1035",
+            "id_programa":"1407521"
+         },
+         {
+            "titulo":"Show do Campeonato Italiano",
+            "dh_fim":"2014-02-04T18:15Z",
+            "dh_inicio":"2014-02-04T17:45Z",
+            "st_titulo":"show_do_campeonato_italiano",
+            "id_canal":"1035",
+            "id_programa":"410826"
+         },
+         {
+            "titulo":"Pré Jogo - Vivo",
+            "dh_fim":"2014-02-04T18:45Z",
+            "dh_inicio":"2014-02-04T18:15Z",
+            "st_titulo":"pre_jogo__vivo",
+            "id_canal":"1035",
+            "id_programa":"1293641"
+         },
+         {
+            "titulo":"VT - Manchester United x Cardiff",
+            "dh_fim":"2014-02-04T20:45Z",
+            "dh_inicio":"2014-02-04T18:45Z",
+            "st_titulo":"vt__manchester_united_x_cardiff",
+            "id_canal":"1035",
+            "id_programa":"1411357"
+         },
+         {
+            "titulo":"Programa de Talentos",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"programa_de_talentos",
+            "id_canal":"1036",
+            "id_programa":"150857"
+         },
+         {
+            "titulo":"Crash & Bernstein",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"crash__bernstein",
+            "id_canal":"1036",
+            "id_programa":"1230466"
+         },
+         {
+            "titulo":"Crash & Bernstein",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"crash__bernstein",
+            "id_canal":"1036",
+            "id_programa":"1230466"
+         },
+         {
+            "titulo":"Os Padrinhos Mágicos",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"os_padrinhos_magicos",
+            "id_canal":"1036",
+            "id_programa":"99868"
+         },
+         {
+            "titulo":"Programa de Talentos",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"programa_de_talentos",
+            "id_canal":"1036",
+            "id_programa":"150857"
+         },
+         {
+            "titulo":"Programa de Talentos",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"programa_de_talentos",
+            "id_canal":"1036",
+            "id_programa":"150857"
+         },
+         {
+            "titulo":"Jake e os Piratas da Terra do Nunca",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"jake_e_os_piratas_da_terra_do_nunca",
+            "id_canal":"1037",
+            "id_programa":"122227"
+         },
+         {
+            "titulo":"Art Attack",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"art_attack",
+            "id_canal":"1037",
+            "id_programa":"99548"
+         },
+         {
+            "titulo":"Zou",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"zou",
+            "id_canal":"1037",
+            "id_programa":"1095191"
+         },
+         {
+            "titulo":"A Colmeia Feliz",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"a_colmeia_feliz",
+            "id_canal":"1037",
+            "id_programa":"1098876"
+         },
+         {
+            "titulo":"Henry Monstrinho",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"henry_monstrinho",
+            "id_canal":"1037",
+            "id_programa":"1305930"
+         },
+         {
+            "titulo":"Ursinho Pooh: A Páscoa de Guru",
+            "dh_fim":"2014-02-04T19:30Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"ursinho_pooh_a_pascoa_de_guru",
+            "id_canal":"1037",
+            "id_programa":"1396582"
+         },
+         {
+            "titulo":"Venda Premiere FC",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T15:00Z",
+            "st_titulo":"venda_premiere_fc",
+            "id_canal":"1039",
+            "id_programa":"138371"
+         },
+         {
+            "titulo":"Venda Premiere FC",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"venda_premiere_fc",
+            "id_canal":"1039",
+            "id_programa":"138371"
+         },
+         {
+            "titulo":"O que Você Precisa Saber Sobre Ciência - Temp.1 - Ep.1",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"o_que_voce_precisa_saber_sobre_ciencia__temp1__ep1",
+            "id_canal":"1040",
+            "id_programa":"1405231"
+         },
+         {
+            "titulo":"O que Você Precisa Saber Sobre Ciência - Temp.2 - Ep.1",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"o_que_voce_precisa_saber_sobre_ciencia__temp2__ep1",
+            "id_canal":"1040",
+            "id_programa":"1405233"
+         },
+         {
+            "titulo":"Lonely Planet: Um Ano de Aventuras - Temp.1 - Ep.3",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"lonely_planet_um_ano_de_aventuras__temp1__ep3",
+            "id_canal":"1040",
+            "id_programa":"1326065"
+         },
+         {
+            "titulo":"The Hollywood News Report - Temp.5 - Ep.5",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"the_hollywood_news_report__temp5__ep5",
+            "id_canal":"1041",
+            "id_programa":"1403534"
+         },
+         {
+            "titulo":"Antes do Pôr-do-Sol",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"antes_do_pordosol",
+            "id_canal":"1041",
+            "id_programa":"1212102"
+         },
+         {
+            "titulo":"Amor à Segunda Vista",
+            "dh_fim":"2014-02-04T20:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"amor_a_segunda_vista",
+            "id_canal":"1041",
+            "id_programa":"1094989"
+         },
+         {
+            "titulo":"I.N.K - A Rede Secreta",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"ink__a_rede_secreta",
+            "id_canal":"1042",
+            "id_programa":"381845"
+         },
+         {
+            "titulo":"Floopaloo",
+            "dh_fim":"2014-02-04T16:45Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"floopaloo",
+            "id_canal":"1042",
+            "id_programa":"1403924"
+         },
+         {
+            "titulo":"Fish & Chips",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:45Z",
+            "st_titulo":"fish__chips",
+            "id_canal":"1042",
+            "id_programa":"381556"
+         },
+         {
+            "titulo":"Eu Sou um Gênio",
+            "dh_fim":"2014-02-04T17:15Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"eu_sou_um_genio",
+            "id_canal":"1042",
+            "id_programa":"382632"
+         },
+         {
+            "titulo":"CJ a DJ",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:15Z",
+            "st_titulo":"cj_a_dj",
+            "id_canal":"1042",
+            "id_programa":"1403967"
+         },
+         {
+            "titulo":"Clay Kids",
+            "dh_fim":"2014-02-04T17:45Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"clay_kids",
+            "id_canal":"1042",
+            "id_programa":"1299076"
+         },
+         {
+            "titulo":"Robôs Invasores",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:45Z",
+            "st_titulo":"robos_invasores",
+            "id_canal":"1042",
+            "id_programa":"383002"
+         },
+         {
+            "titulo":"O Livro da Selva",
+            "dh_fim":"2014-02-04T18:15Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"o_livro_da_selva",
+            "id_canal":"1042",
+            "id_programa":"382488"
+         },
+         {
+            "titulo":"Angry Birds Toons",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:15Z",
+            "st_titulo":"angry_birds_toons",
+            "id_canal":"1042",
+            "id_programa":"1250767"
+         },
+         {
+            "titulo":"Eca Meleca!",
+            "dh_fim":"2014-02-04T18:45Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"eca_meleca",
+            "id_canal":"1042",
+            "id_programa":"1349867"
+         },
+         {
+            "titulo":"Larry e os Sinistros",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:45Z",
+            "st_titulo":"larry_e_os_sinistros",
+            "id_canal":"1042",
+            "id_programa":"1298815"
+         },
+         {
+            "titulo":"I.N.K - A Rede Secreta",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"ink__a_rede_secreta",
+            "id_canal":"1043",
+            "id_programa":"381845"
+         },
+         {
+            "titulo":"Floopaloo",
+            "dh_fim":"2014-02-04T16:45Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"floopaloo",
+            "id_canal":"1043",
+            "id_programa":"1403924"
+         },
+         {
+            "titulo":"Fish & Chips",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:45Z",
+            "st_titulo":"fish__chips",
+            "id_canal":"1043",
+            "id_programa":"381556"
+         },
+         {
+            "titulo":"Eu Sou um Gênio",
+            "dh_fim":"2014-02-04T17:15Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"eu_sou_um_genio",
+            "id_canal":"1043",
+            "id_programa":"382632"
+         },
+         {
+            "titulo":"CJ a DJ",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:15Z",
+            "st_titulo":"cj_a_dj",
+            "id_canal":"1043",
+            "id_programa":"1403967"
+         },
+         {
+            "titulo":"Clay Kids",
+            "dh_fim":"2014-02-04T17:45Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"clay_kids",
+            "id_canal":"1043",
+            "id_programa":"1299076"
+         },
+         {
+            "titulo":"Robôs Invasores",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:45Z",
+            "st_titulo":"robos_invasores",
+            "id_canal":"1043",
+            "id_programa":"383002"
+         },
+         {
+            "titulo":"O Livro da Selva",
+            "dh_fim":"2014-02-04T18:15Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"o_livro_da_selva",
+            "id_canal":"1043",
+            "id_programa":"382488"
+         },
+         {
+            "titulo":"Angry Birds Toons",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:15Z",
+            "st_titulo":"angry_birds_toons",
+            "id_canal":"1043",
+            "id_programa":"1250767"
+         },
+         {
+            "titulo":"Eca Meleca!",
+            "dh_fim":"2014-02-04T18:45Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"eca_meleca",
+            "id_canal":"1043",
+            "id_programa":"1349867"
+         },
+         {
+            "titulo":"Larry e os Sinistros",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:45Z",
+            "st_titulo":"larry_e_os_sinistros",
+            "id_canal":"1043",
+            "id_programa":"1298815"
+         },
+         {
+            "titulo":"Futebol, Uma Viagem",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"futebol,_uma_viagem",
+            "id_canal":"1047",
+            "id_programa":"1404432"
+         },
+         {
+            "titulo":"Europeu de Futsal: Portugal x Rússia",
+            "dh_fim":"2014-02-04T18:15Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"europeu_de_futsal_portugal_x_russia",
+            "id_canal":"1047",
+            "id_programa":"1412104"
+         },
+         {
+            "titulo":"Gil Vicente x Benfica",
+            "dh_fim":"2014-02-04T20:15Z",
+            "dh_inicio":"2014-02-04T18:15Z",
+            "st_titulo":"gil_vicente_x_benfica",
+            "id_canal":"1047",
+            "id_programa":"1412038"
+         },
+         {
+            "titulo":"Show da Rodada do Campeonato Inglês",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"show_da_rodada_do_campeonato_ingles",
+            "id_canal":"1049",
+            "id_programa":"1308673"
+         },
+         {
+            "titulo":"Show da Rodada do Campeonato Espanhol",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"show_da_rodada_do_campeonato_espanhol",
+            "id_canal":"1049",
+            "id_programa":"1087915"
+         },
+         {
+            "titulo":"ESPN Brasil Especial",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"espn_brasil_especial",
+            "id_canal":"1049",
+            "id_programa":"1404784"
+         },
+         {
+            "titulo":"Loucos por Futebol",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"loucos_por_futebol",
+            "id_canal":"1049",
+            "id_programa":"1184717"
+         },
+         {
+            "titulo":"Parenthood - Uma História de Família - Temp.2 - Ep.4",
+            "dh_fim":"2014-02-04T16:59Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"parenthood__uma_historia_de_familia__temp2__ep4",
+            "id_canal":"1051",
+            "id_programa":"1375773"
+         },
+         {
+            "titulo":"Momento Maternidade",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:59Z",
+            "st_titulo":"momento_maternidade",
+            "id_canal":"1051",
+            "id_programa":"1346575"
+         },
+         {
+            "titulo":"Faixa de Areia",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"faixa_de_areia",
+            "id_canal":"1051",
+            "id_programa":"1407260"
+         },
+         {
+            "titulo":"Diário do Olivier",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"diario_do_olivier",
+            "id_canal":"1051",
+            "id_programa":"1405220"
+         },
+         {
+            "titulo":"Que Marravilha!",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"que_marravilha",
+            "id_canal":"1051",
+            "id_programa":"1408651"
+         },
+         {
+            "titulo":"Tempero de Família Verão",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"tempero_de_familia_verao",
+            "id_canal":"1051",
+            "id_programa":"1407197"
+         },
+         {
+            "titulo":"O Samba Que Mora em Mim",
+            "dh_fim":"2014-02-04T17:15Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"o_samba_que_mora_em_mim",
+            "id_canal":"1053",
+            "id_programa":"1371538"
+         },
+         {
+            "titulo":"Pixinguinha e a Velha Guarda do Samba",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:15Z",
+            "st_titulo":"pixinguinha_e_a_velha_guarda_do_samba",
+            "id_canal":"1053",
+            "id_programa":"1396260"
+         },
+         {
+            "titulo":"Kaya N'Gan Daya",
+            "dh_fim":"2014-02-04T18:45Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"kaya_ngan_daya",
+            "id_canal":"1053",
+            "id_programa":"1407108"
+         },
+         {
+            "titulo":"Brasília, Uma Sinfonia com Tom Jobim",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:45Z",
+            "st_titulo":"brasilia,_uma_sinfonia_com_tom_jobim",
+            "id_canal":"1053",
+            "id_programa":"1376112"
+         },
+         {
+            "titulo":"The Line - Temp.3 - Ep.1",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"the_line__temp3__ep1",
+            "id_canal":"1054",
+            "id_programa":"1403310"
+         },
+         {
+            "titulo":"Os Melhores Contos de Grimm",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"os_melhores_contos_de_grimm",
+            "id_canal":"1054",
+            "id_programa":"1399332"
+         },
+         {
+            "titulo":"Os Aviadores - Temp.3 - Ep.13",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"os_aviadores__temp3__ep13",
+            "id_canal":"1054",
+            "id_programa":"1401798"
+         },
+         {
+            "titulo":"Shifting Gears - Mundo Motor - Temp.2 - Ep.4",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"shifting_gears__mundo_motor__temp2__ep4",
+            "id_canal":"1054",
+            "id_programa":"1400359"
+         },
+         {
+            "titulo":"Prancha e Pé de Pato - Temp.1 - Ep.2",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"prancha_e_pe_de_pato__temp1__ep2",
+            "id_canal":"1056",
+            "id_programa":"1409317"
+         },
+         {
+            "titulo":"Mar Doce Lar",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"mar_doce_lar",
+            "id_canal":"1056",
+            "id_programa":"1409089"
+         },
+         {
+            "titulo":"OFF Docs",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"off_docs",
+            "id_canal":"1056",
+            "id_programa":"1409401"
+         },
+         {
+            "titulo":"Diário das Ilhas - Temp.2 - Ep.8",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"diario_das_ilhas__temp2__ep8",
+            "id_canal":"1056",
+            "id_programa":"1409481"
+         },
+         {
+            "titulo":"Quatro Remos - Temp.3 - Ep.2",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"quatro_remos__temp3__ep2",
+            "id_canal":"1056",
+            "id_programa":"1409483"
+         },
+         {
+            "titulo":"Sessão Espuma",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"sessao_espuma",
+            "id_canal":"1058",
+            "id_programa":"1408459"
+         },
+         {
+            "titulo":"Sessão Espuma",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"sessao_espuma",
+            "id_canal":"1058",
+            "id_programa":"1408459"
+         },
+         {
+            "titulo":"Indoconnection",
+            "dh_fim":"2014-02-04T17:15Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"indoconnection",
+            "id_canal":"1058",
+            "id_programa":"1371342"
+         },
+         {
+            "titulo":"Indoconnection",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:15Z",
+            "st_titulo":"indoconnection",
+            "id_canal":"1058",
+            "id_programa":"1371342"
+         },
+         {
+            "titulo":"Indoconnection",
+            "dh_fim":"2014-02-04T17:45Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"indoconnection",
+            "id_canal":"1058",
+            "id_programa":"1371342"
+         },
+         {
+            "titulo":"Indoconnection",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:45Z",
+            "st_titulo":"indoconnection",
+            "id_canal":"1058",
+            "id_programa":"1371342"
+         },
+         {
+            "titulo":"Indoconnection",
+            "dh_fim":"2014-02-04T18:15Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"indoconnection",
+            "id_canal":"1058",
+            "id_programa":"1371342"
+         },
+         {
+            "titulo":"Indoconnection",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:15Z",
+            "st_titulo":"indoconnection",
+            "id_canal":"1058",
+            "id_programa":"1371342"
+         },
+         {
+            "titulo":"Indoconnection",
+            "dh_fim":"2014-02-04T18:45Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"indoconnection",
+            "id_canal":"1058",
+            "id_programa":"1371342"
+         },
+         {
+            "titulo":"Indoconnection",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:45Z",
+            "st_titulo":"indoconnection",
+            "id_canal":"1058",
+            "id_programa":"1371342"
+         },
+         {
+            "titulo":"Vizinho Assassino: Crime em Goshen - Temp.2 - Ep.5",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"vizinho_assassino_crime_em_goshen__temp2__ep5",
+            "id_canal":"1059",
+            "id_programa":"1307187"
+         },
+         {
+            "titulo":"Vizinho Assassino: Caminho Vicinal - Temp.3 - Ep.3",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"vizinho_assassino_caminho_vicinal__temp3__ep3",
+            "id_canal":"1059",
+            "id_programa":"1399976"
+         },
+         {
+            "titulo":"O Diabo a Seu Lado - Temp.4 - Ep.2",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"o_diabo_a_seu_lado__temp4__ep2",
+            "id_canal":"1059",
+            "id_programa":"1402018"
+         },
+         {
+            "titulo":"Mythbusters: Os Caçadores de Mitos: Puxada de Toalha - Temp.7 - Ep.152",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T15:40Z",
+            "st_titulo":"mythbusters_os_cacadores_de_mitos_puxada_de_toalha__temp7__ep152",
+            "id_canal":"1060",
+            "id_programa":"1325675"
+         },
+         {
+            "titulo":"À Prova de Tudo: Impressões da Equipe - Temp.4 - Ep.6",
+            "dh_fim":"2014-02-04T17:20Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"a_prova_de_tudo_impressoes_da_equipe__temp4__ep6",
+            "id_canal":"1060",
+            "id_programa":"1409372"
+         },
+         {
+            "titulo":"A Supercâmera: Nitrogênio Líquido",
+            "dh_fim":"2014-02-04T17:45Z",
+            "dh_inicio":"2014-02-04T17:20Z",
+            "st_titulo":"a_supercamera_nitrogenio_liquido",
+            "id_canal":"1060",
+            "id_programa":"1288962"
+         },
+         {
+            "titulo":"A Supercâmera: Chicote Supersônico",
+            "dh_fim":"2014-02-04T18:10Z",
+            "dh_inicio":"2014-02-04T17:45Z",
+            "st_titulo":"a_supercamera_chicote_supersonico",
+            "id_canal":"1060",
+            "id_programa":"1325671"
+         },
+         {
+            "titulo":"Desafio em Dose Dupla Brasil: Montanha Abaixo",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:10Z",
+            "st_titulo":"desafio_em_dose_dupla_brasil_montanha_abaixo",
+            "id_canal":"1060",
+            "id_programa":"1213770"
+         },
+         {
+            "titulo":"Fome de Quê?: Doces do Bem - Temp.1 - Ep.4",
+            "dh_fim":"2014-02-04T16:05Z",
+            "dh_inicio":"2014-02-04T15:40Z",
+            "st_titulo":"fome_de_que_doces_do_bem__temp1__ep4",
+            "id_canal":"1061",
+            "id_programa":"1345294"
+         },
+         {
+            "titulo":"Segredos de uma Chef: O Segredo da Canja de Galinha - Temp.5 - Ep.1",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:05Z",
+            "st_titulo":"segredos_de_uma_chef_o_segredo_da_canja_de_galinha__temp5__ep1",
+            "id_canal":"1061",
+            "id_programa":"1387173"
+         },
+         {
+            "titulo":"Cake Boss: Entrando numa Fria - Temp.3 - Ep.6",
+            "dh_fim":"2014-02-04T16:55Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"cake_boss_entrando_numa_fria__temp3__ep6",
+            "id_canal":"1061",
+            "id_programa":"1384234"
+         },
+         {
+            "titulo":"Cake Boss: Era Medieval - Temp.3 - Ep.7",
+            "dh_fim":"2014-02-04T17:20Z",
+            "dh_inicio":"2014-02-04T16:55Z",
+            "st_titulo":"cake_boss_era_medieval__temp3__ep7",
+            "id_canal":"1061",
+            "id_programa":"1386337"
+         },
+         {
+            "titulo":"Junior MasterChef - Temp.1 - Ep.15",
+            "dh_fim":"2014-02-04T18:10Z",
+            "dh_inicio":"2014-02-04T17:20Z",
+            "st_titulo":"junior_masterchef__temp1__ep15",
+            "id_canal":"1061",
+            "id_programa":"1402613"
+         },
+         {
+            "titulo":"Batalha dos Confeiteiros: Efeitos Especiais",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:10Z",
+            "st_titulo":"batalha_dos_confeiteiros_efeitos_especiais",
+            "id_canal":"1061",
+            "id_programa":"1401634"
+         },
+         {
+            "titulo":"Só Rindo com Betty White",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"so_rindo_com_betty_white",
+            "id_canal":"1062",
+            "id_programa":"1296968"
+         },
+         {
+            "titulo":"Video Killed The Radio Star: Metallica",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"video_killed_the_radio_star_metallica",
+            "id_canal":"1062",
+            "id_programa":"1411602"
+         },
+         {
+            "titulo":"Conexões Urbanas",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"conexoes_urbanas",
+            "id_canal":"1062",
+            "id_programa":"1364505"
+         },
+         {
+            "titulo":"Sound",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"sound",
+            "id_canal":"1062",
+            "id_programa":"1240351"
+         },
+         {
+            "titulo":"De Volta Pra Pista",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"de_volta_pra_pista",
+            "id_canal":"1062",
+            "id_programa":"1350017"
+         },
+         {
+            "titulo":"Meu Passado Me Condena",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"meu_passado_me_condena",
+            "id_canal":"1062",
+            "id_programa":"1365077"
+         },
+         {
+            "titulo":"Lorient x Monaco",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T14:30Z",
+            "st_titulo":"lorient_x_monaco",
+            "id_canal":"1063",
+            "id_programa":"1411780"
+         },
+         {
+            "titulo":"Missão 2014",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"missao_2014",
+            "id_canal":"1063",
+            "id_programa":"1347372"
+         },
+         {
+            "titulo":"Tá na Área",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"ta_na_area",
+            "id_canal":"1063",
+            "id_programa":"1164329"
+         },
+         {
+            "titulo":"Superliga Masculina de Vôlei: Minas x Maringá",
+            "dh_fim":"2014-02-04T20:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"superliga_masculina_de_volei_minas_x_maringa",
+            "id_canal":"1063",
+            "id_programa":"1412981"
+         },
+         {
+            "titulo":"Premiere HD 2",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"premiere_hd_2",
+            "id_canal":"1064",
+            "id_programa":"1239008"
+         },
+         {
+            "titulo":"Estúdio i",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T15:00Z",
+            "st_titulo":"estudio_i",
+            "id_canal":"1066",
+            "id_programa":"1095524"
+         },
+         {
+            "titulo":"Globo News Literatura",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"globo_news_literatura",
+            "id_canal":"1066",
+            "id_programa":"1086230"
+         },
+         {
+            "titulo":"Jornal Globo News",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"jornal_globo_news",
+            "id_canal":"1066",
+            "id_programa":"1088099"
+         },
+         {
+            "titulo":"Navegador",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"navegador",
+            "id_canal":"1066",
+            "id_programa":"1364199"
+         },
+         {
+            "titulo":"Jornal Globo News",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"jornal_globo_news",
+            "id_canal":"1066",
+            "id_programa":"1088099"
+         },
+         {
+            "titulo":"Milênio",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"milenio",
+            "id_canal":"1066",
+            "id_programa":"1095523"
+         },
+         {
+            "titulo":"Foliar Brasil",
+            "dh_fim":"2014-02-04T16:07Z",
+            "dh_inicio":"2014-02-04T14:30Z",
+            "st_titulo":"foliar_brasil",
+            "id_canal":"1071",
+            "id_programa":"1225655"
+         },
+         {
+            "titulo":"Faixa Extra",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:07Z",
+            "st_titulo":"faixa_extra",
+            "id_canal":"1071",
+            "id_programa":"1242710"
+         },
+         {
+            "titulo":"Prime List (videoclipes)",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"prime_list_videoclipes",
+            "id_canal":"1071",
+            "id_programa":"1267752"
+         },
+         {
+            "titulo":"De Passagem",
+            "dh_fim":"2014-02-04T18:25Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"de_passagem",
+            "id_canal":"1071",
+            "id_programa":"1157533"
+         },
+         {
+            "titulo":"Faixa Extra",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:25Z",
+            "st_titulo":"faixa_extra",
+            "id_canal":"1071",
+            "id_programa":"1242710"
+         },
+         {
+            "titulo":"Jukebox",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"jukebox",
+            "id_canal":"1072",
+            "id_programa":"1340330"
+         },
+         {
+            "titulo":"Music Box in Concert: Fresno - O Outro Lado da Porta",
+            "dh_fim":"2014-02-04T18:35Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"music_box_in_concert_fresno__o_outro_lado_da_porta",
+            "id_canal":"1072",
+            "id_programa":"1252834"
+         },
+         {
+            "titulo":"Making Of",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:35Z",
+            "st_titulo":"making_of",
+            "id_canal":"1072",
+            "id_programa":"1253127"
+         },
+         {
+            "titulo":"Pátio",
+            "dh_fim":"2014-02-04T18:20Z",
+            "dh_inicio":"2014-02-04T15:50Z",
+            "st_titulo":"patio",
+            "id_canal":"1073",
+            "id_programa":"1412852"
+         },
+         {
+            "titulo":"Os Impressionistas",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:20Z",
+            "st_titulo":"os_impressionistas",
+            "id_canal":"1073",
+            "id_programa":"1412869"
+         },
+         {
+            "titulo":"Lalaloopsy: Uma Árvore Especial - Temp.1 - Ep.11",
+            "dh_fim":"2014-02-04T16:30Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"lalaloopsy_uma_arvore_especial__temp1__ep11",
+            "id_canal":"1079",
+            "id_programa":"1352235"
+         },
+         {
+            "titulo":"Milly e Molly: A Montanha / Billy e Dália",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T16:30Z",
+            "st_titulo":"milly_e_molly_a_montanha__billy_e_dalia",
+            "id_canal":"1079",
+            "id_programa":"1390454"
+         },
+         {
+            "titulo":"The Fresh Beat Band: A Dança do Lava-rápido - Temp.2 - Ep.13",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"the_fresh_beat_band_a_danca_do_lavarapido__temp2__ep13",
+            "id_canal":"1079",
+            "id_programa":"1390099"
+         },
+         {
+            "titulo":"Mike, o Cavaleiro",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"mike,_o_cavaleiro",
+            "id_canal":"1079",
+            "id_programa":"1412192"
+         },
+         {
+            "titulo":"Hi-5 Austrália: Desejos - Temp.13 - Ep.25",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"hi5_australia_desejos__temp13__ep25",
+            "id_canal":"1079",
+            "id_programa":"1412568"
+         },
+         {
+            "titulo":"Super Why!",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"super_why",
+            "id_canal":"1079",
+            "id_programa":"1402160"
+         },
+         {
+            "titulo":"Campeonato Alemão",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T16:00Z",
+            "st_titulo":"campeonato_alemao",
+            "id_canal":"1081",
+            "id_programa":"1379454"
+         },
+         {
+            "titulo":"Campeonato Francês",
+            "dh_fim":"2014-02-04T20:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"campeonato_frances",
+            "id_canal":"1081",
+            "id_programa":"1393412"
+         },
+         {
+            "titulo":"Correndo Atrás do Diploma",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T15:30Z",
+            "st_titulo":"correndo_atras_do_diploma",
+            "id_canal":"1082",
+            "id_programa":"1398787"
+         },
+         {
+            "titulo":"Law & Order SVU",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"law__order_svu",
+            "id_canal":"1082",
+            "id_programa":"1320770"
+         },
+         {
+            "titulo":"House",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"house",
+            "id_canal":"1082",
+            "id_programa":"1391505"
+         },
+         {
+            "titulo":"Contágio",
+            "dh_fim":"2014-02-04T16:50Z",
+            "dh_inicio":"2014-02-04T14:53Z",
+            "st_titulo":"contagio",
+            "id_canal":"1085",
+            "id_programa":"1298490"
+         },
+         {
+            "titulo":"Um Assassino entre Nós",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T16:50Z",
+            "st_titulo":"um_assassino_entre_nos",
+            "id_canal":"1085",
+            "id_programa":"1348628"
+         },
+         {
+            "titulo":"The Big C - Temp.4 - Ep.2",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"the_big_c__temp4__ep2",
+            "id_canal":"1085",
+            "id_programa":"1403155"
+         },
+         {
+            "titulo":"Terra do Gás - Parte 2",
+            "dh_fim":"2014-02-04T17:25Z",
+            "dh_inicio":"2014-02-04T15:15Z",
+            "st_titulo":"terra_do_gas__parte_2",
+            "id_canal":"1086",
+            "id_programa":"1357295"
+         },
+         {
+            "titulo":"Betty e Coretta",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T17:25Z",
+            "st_titulo":"betty_e_coretta",
+            "id_canal":"1086",
+            "id_programa":"1301865"
+         },
+         {
+            "titulo":"Quase Irmãos",
+            "dh_fim":"2014-02-04T17:00Z",
+            "dh_inicio":"2014-02-04T15:00Z",
+            "st_titulo":"quase_irmaos",
+            "id_canal":"1088",
+            "id_programa":"1314024"
+         },
+         {
+            "titulo":"República do Standup",
+            "dh_fim":"2014-02-04T17:30Z",
+            "dh_inicio":"2014-02-04T17:00Z",
+            "st_titulo":"republica_do_standup",
+            "id_canal":"1088",
+            "id_programa":"1364796"
+         },
+         {
+            "titulo":"Punch Tv",
+            "dh_fim":"2014-02-04T18:00Z",
+            "dh_inicio":"2014-02-04T17:30Z",
+            "st_titulo":"punch_tv",
+            "id_canal":"1088",
+            "id_programa":"1365845"
+         },
+         {
+            "titulo":"Happily Divorced - Temp.1 - Ep.9",
+            "dh_fim":"2014-02-04T18:30Z",
+            "dh_inicio":"2014-02-04T18:00Z",
+            "st_titulo":"happily_divorced__temp1__ep9",
+            "id_canal":"1088",
+            "id_programa":"1391264"
+         },
+         {
+            "titulo":"The Exes - Temp.1 - Ep.7",
+            "dh_fim":"2014-02-04T19:00Z",
+            "dh_inicio":"2014-02-04T18:30Z",
+            "st_titulo":"the_exes__temp1__ep7",
+            "id_canal":"1088",
+            "id_programa":"1392076"
+         }
+      ]
+   }
+})
