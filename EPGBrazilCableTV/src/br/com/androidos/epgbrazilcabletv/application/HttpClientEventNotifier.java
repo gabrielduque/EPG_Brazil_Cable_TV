@@ -1,6 +1,6 @@
 package br.com.androidos.epgbrazilcabletv.application;
 
-public interface HttpClientEvent {
+public interface HttpClientEventNotifier {
 	
 	void register(HttpClientListener httpClientListener);
 	 

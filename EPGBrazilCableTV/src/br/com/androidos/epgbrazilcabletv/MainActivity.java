@@ -19,7 +19,7 @@ public class MainActivity extends RoboActivity implements HttpClientListener{
 		super.onCreate(savedInstanceState);
 	        setContentView(R.layout.main);
 	        netHttpClient.register(this);
-	        netHttpClient.getTvProgramming();
+	        netHttpClient.updateTvProgramming();
 	        
 	}
 
