@@ -1,6 +1,9 @@
 package br.com.androidos.epgbrazilcabletv.application;
 
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -28,8 +31,17 @@ public class NETHttpClient implements HttpClientEventNotifier{
 	
     public void updateTvProgramming(){
     	hasReceivedReponse = false;
-        RequestParams params = new RequestParams();
-        String httpGET = "http://programacao.netcombo.com.br/gatekeeper/exibicao/select?q=id_cidade:96&callback=callbackShows&json.wrf=callbackShows&wt=json&rows=100000&sort=id_canal+asc%2Cdh_inicio+asc&fl=dh_fim+dh_inicio+st_titulo+titulo+id_programa+id_canal&fq=dh_inicio:[2014-02-04T00:30:00Z TO 2014-02-04T23:59:00Z] dh_fim:[2014-02-04T00:31:00Z TO 2014-02-05T00:00:00Z]";
+        RequestParams params = new RequestParams();		
+        		
+        /*String dh_inicio = "2014-02-04T00:30:00Z TO 2014-02-04T23:59:00Z";
+        
+        String dh_fim = "2014-02-04T00:31:00Z TO 2014-02-05T00:00:00Z";*/
+        
+        String dh_inicio = GenerateActualDate.dh_inicio;
+        
+        String dh_fim = GenerateActualDate.dh_fim;
+        
+        String httpGET = "http://programacao.netcombo.com.br/gatekeeper/exibicao/select?q=id_cidade:96&callback=callbackShows&json.wrf=callbackShows&wt=json&rows=100000&sort=id_canal+asc%2Cdh_inicio+asc&fl=dh_fim+dh_inicio+st_titulo+titulo+id_programa+id_canal&fq=dh_inicio:["+dh_inicio+"] dh_fim:["+dh_fim+"]";
         
     	this.client.get(httpGET, params, new AsyncHttpResponseHandler() {
            
@@ -43,10 +55,6 @@ public class NETHttpClient implements HttpClientEventNotifier{
         });
     	
     }
-    
-//    private RequestParams buildRequestParams(){
-//    	return new RequestParams(this.requestParams);
-//    }
     
     public void setRequestParams(Map<String, Object> requestParams) {
 		this.requestParams = requestParams;
@@ -65,7 +73,6 @@ public class NETHttpClient implements HttpClientEventNotifier{
 				httpClientListener.update();
 			}
 		}
-		
 	}
 
 	@Override
@@ -81,6 +88,28 @@ public class NETHttpClient implements HttpClientEventNotifier{
 			changedState = jsonResponse;
 		}
 		return changedState;
+	}
+	
+	public static class GenerateActualDate{
+			
+	        private static DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
+	        
+	        private static Date date1 = new Date();
+	        
+	        private static Date date2 = new Date(date1.getTime()+(24*60*60*1000));
+	        
+	        public static String dh_inicio = String.format("%sT00:30:00Z TO %sT23:59:00Z", dateFormat.format(date1),dateFormat.format(date1));
+	     
+	        public static String dh_fim =    String.format("%sT00:31:00Z TO %sT00:00:00Z", dateFormat.format(date1),dateFormat.format(date2));
+
+			public static String getDh_inicio() {
+				return dh_inicio;
+			}
+
+			public static String getDh_fim() {
+				return dh_fim;
+			}
+	        
 	}
 
 }
