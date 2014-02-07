@@ -40,7 +40,8 @@ public class NETHttpClient implements HttpClientEventNotifier{
         RequestParams params = new RequestParams();		
         
         Date initialDate = (Date) new Date().clone();
-        httpRequestDateFormatter = new HttpRequestDateFormatter(initialDate, (Date) new Date(initialDate.getTime()+(24*60*60*1000)).clone());
+        httpRequestDateFormatter.setStartingDate(initialDate);
+        httpRequestDateFormatter.setEndingDate((Date) new Date(initialDate.getTime()+(24*60*60*1000)).clone());
         
         String startingDate = httpRequestDateFormatter.getStartingDate();
         
