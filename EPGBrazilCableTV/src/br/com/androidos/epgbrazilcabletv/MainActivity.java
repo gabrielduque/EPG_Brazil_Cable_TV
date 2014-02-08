@@ -6,6 +6,8 @@ import android.util.Log;
 import android.view.Menu;
 import br.com.androidos.epgbrazilcabletv.application.HttpClientListener;
 import br.com.androidos.epgbrazilcabletv.application.NETHttpClient;
+import br.com.androidos.epgbrazilcabletv.util.ApplicationConnectivityManager;
+
 import com.google.inject.Inject;
 
 public class MainActivity extends RoboActivity implements HttpClientListener{
@@ -13,12 +15,16 @@ public class MainActivity extends RoboActivity implements HttpClientListener{
 	@Inject
 	private NETHttpClient netHttpClient;
 	
+	@Inject
+	private ApplicationConnectivityManager applicationConnectivityManager;
+	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		
 		super.onCreate(savedInstanceState);
 	        setContentView(R.layout.main);
 	        netHttpClient.register(this);
+	        applicationConnectivityManager.checkConnectivity();
 	        netHttpClient.updateTvProgramming();
 	        
 	}
